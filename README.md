@@ -29,6 +29,17 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 -
 
+### 7 sept - checkout vragen
+
+1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+   Ze volgen geen tijdlijn of hebben een upload datum. Je kan het heel persoonlijk maken, het is niet perfect en het is echt een stukje van jezelf. Een digital garden maakt ook gebruik van code snippets, schetsen, animaties en stukjes geluid en video ipv alleen maar tekst.
+
+2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+   Het is interactief, het past zich aan op beeldgrote. Ze hebben goeie animaties en button states. Zit goeie leesbaarheid en contrast in. En het gebruikt veel css en onderdelen van het web.
+
+3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+   Ik wil aan de slag gaan met het uitleggen van hoe je een computer moet bouwen, in chronologische volgorde terwijl ik iets vertel over elk onderdeel. Een leuk idee dat ik heb is dat ik een afbeelding plaats over een onderdeel en daar dan buttons omheen zet om zo tekst uit te klappen die iets verteld over subonderdelen van de afbeelding.
+
 ### 31 aug - Kickoff
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
