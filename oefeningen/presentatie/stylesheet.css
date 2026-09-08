@@ -4,3 +4,7 @@ img {
   height: auto;
   max-width: 30%;
 }
+
+p {
+  font-size: 10px;
+}
