@@ -40,6 +40,31 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
    Ik wil aan de slag gaan met het uitleggen van hoe je een computer moet bouwen, in chronologische volgorde terwijl ik iets vertel over elk onderdeel. Een leuk idee dat ik heb is dat ik een afbeelding plaats over een onderdeel en daar dan buttons omheen zet om zo tekst uit te klappen die iets verteld over subonderdelen van de afbeelding.
 
+### 9 sept
+
+<img src="/Afbeeldingen/Scherm­afbeelding 2026-09-10 om 22.51.00.png" >
+
+<img src="/Afbeeldingen/Scherm­afbeelding 2026-09-10 om 22.51.05.png" >
+
+<img src="/Afbeeldingen/Scherm­afbeelding 2026-09-10 om 22.51.10.png">
+
+<img src="/Afbeeldingen/Scherm­afbeelding 2026-09-10 om 22.51.14.png">
+
+<img src="/Afbeeldingen/Scherm­afbeelding 2026-09-10 om 22.51.19.png">
+
+Visual research en crazy 8 gedaan.
+
+### 9 sept - checkout vragen
+
+1. Leg uit waar het Visual Research in 3 stappen naartoe werkt
+   Eerst zoek je naar een sfeerwoord die je vervolgends uitwerkt in directe beelden en abstracte vertaling, als laatst zoek je naar posters of beelden waarin je de directe en abstracte vertalingen terugziet.
+
+2. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+   Mijn garden gaat over het bouwen en samenstellen van computers. Ik ga dit doen met eigen content (fotos en fotos van internet), en scrollable animaties met knoppen.
+
+3. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+   Het idee wat ik het liefst zou willen uitvoeren is idee 7 of 8. Idee 7 heeft een donker contrast en naarmate je scrolt komen de onderdelen "tevoorschijn" en idee 8 is een soort grote folderdoos waarin je kan bladeren, en elk blad is een component waarover je iets kan lezen.
+
 ### 31 aug - Kickoff
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
