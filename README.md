@@ -4,6 +4,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 14-09 checkout vragen
+
+1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+   Als afbeeldingen te groot zijn waardoor ze niet goed op de webpagina passen, of als tekst op een te klein scherm te groot wordt afgebeeld.
+   Dit kun je fixen door media queries toe te voegen zodat je pagina vloeiend aanpast op schermgrootte. Bij afbeeldingen kun je een max-width intellen zodat die op de pagina past.
+
+2. Vertel welke volgende stap je neemt om je website responsive te maken.
+   Media queries toevoegen, maar dan met verschillende groottes als stappen zodat het meer aanpast op basis van schermgrootte. Deep dives toepassen en toevoegen aan mijn eigen design
+
+3. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+   Nog niet echt van toepassing, ik ben nu nog content aan het toevoegen in html en daarna ga ik met css aan de slag.
+
 ### 31-08-2026 checkout vragen
 
 1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
