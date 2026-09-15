@@ -9,10 +9,7 @@
 html {
   color-scheme: light dark;
 
-  --background: light-dark(
-    linear-gradient(white, blue),
-    linear-gradient(red, yellow)
-  );
+  --background: light-dark(blue, red);
 }
 
 html:has([value="light-theme"]:checked) {
