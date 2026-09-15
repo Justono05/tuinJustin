@@ -6,11 +6,11 @@
   font-style: normal;
 }
 
---background: light-dark(white, black);
---textcolor: light-dark(black, yellow);
-
 html {
   color-scheme: light dark;
+
+  --background: light-dark(white, black);
+  --textcolor: light-dark(black, yellow);
 }
 
 html:has([value="light"]:checked) {
