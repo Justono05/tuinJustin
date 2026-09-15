@@ -26,7 +26,7 @@ html:has([value="dark"]:checked) {
 
 body {
   font-family: "Comic Relief", system-ui;
-  background-image: var(--background);
+  background-color: var(--background);
   color: var(--textcolor);
 }
 
