@@ -10,6 +10,10 @@ html {
   color-scheme: light dark;
   max-width: 30em;
   margin: auto;
+  --whitespace-s: 1rem;
+  --whitespace-m: calc(var(--whitespace-s) * 2);
+  --whitespace-l: calc(var(--whitespace-s) * 4);
+  --whitespace-xs: calc(var(--whitespace-s) * 0.5);
 }
 
 html:has([value="light"]:checked) {
@@ -34,4 +38,9 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
+}
+
+h2 {
+  margin-top: var(--whitespace-m);
+  margin-bottom: var(--whitespace-xs);
 }
