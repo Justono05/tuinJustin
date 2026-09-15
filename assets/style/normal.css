@@ -41,6 +41,6 @@ img {
 }
 
 h3 {
-  margin-top: var(--whitespace-m);
-  margin-bottom: var(--whitespace-xs);
+  margin-block-start: var(--whitespace-m);
+  margin-block-end: var(--whitespace-xs);
 }
