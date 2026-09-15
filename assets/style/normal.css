@@ -8,7 +8,6 @@
 
 html {
   color-scheme: light dark;
-  --background: light-dark(green, blue);
 }
 
 html:has([value="light"]:checked) {
@@ -23,6 +22,4 @@ body {
   font-family: "Comic Relief", system-ui;
   background-color: Canvas;
   color: CanvasText;
-  color-scheme: light dark;
-  background-image: var(--background);
 }
