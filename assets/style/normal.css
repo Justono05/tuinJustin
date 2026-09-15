@@ -8,7 +8,7 @@
 
 html {
   color-scheme: light dark;
-  --background: light-dark(red, blue);
+  --background: light-dark(red, orange);
   --textcolor: light-dark(yellow, green);
 }
 
