@@ -8,6 +8,8 @@
 
 html {
   color-scheme: light dark;
+  max-width: 30em;
+  margin: auto;
 }
 
 html:has([value="light"]:checked) {
