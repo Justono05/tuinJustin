@@ -12,21 +12,13 @@ html {
 
 html:has([value="light"]:checked) {
   color-scheme: light;
-  --background: linear-gradient(
-    90deg,
-    rgba(255, 246, 207, 1) 0%,
-    rgba(255, 226, 99, 1) 100%
-  );
+  --background: #ffe8a3;
   --textcolor: #0860bf;
 }
 
 html:has([value="dark"]:checked) {
   color-scheme: dark;
-  --background: linear-gradient(
-    90deg,
-    rgba(154, 0, 250, 1) 0%,
-    rgba(92, 0, 250, 1) 100%
-  );
+  --background: #623dff;
   --textcolor: #f4dd0b;
 }
 
