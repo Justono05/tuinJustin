@@ -8,8 +8,6 @@
 
 html {
   color-scheme: light dark;
-  max-width: 30em;
-  margin: auto;
   --whitespace-s: 1rem;
   --whitespace-m: calc(var(--whitespace-s) * 2);
   --whitespace-l: calc(var(--whitespace-s) * 4);
