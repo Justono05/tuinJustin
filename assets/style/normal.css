@@ -10,6 +10,14 @@ html {
   color-scheme: light dark;
 }
 
+html:has([value="light-theme"]:checked) {
+  color-scheme: light;
+}
+
+html:has([value="dark-theme"]:checked) {
+  color-scheme: dark;
+}
+
 body {
   font-family: "Comic Relief", system-ui;
   background-color: Canvas;
