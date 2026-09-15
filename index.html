@@ -18,18 +18,27 @@
   </head>
   <body>
     <h1>[Justin's project tuintje]</h1>
-    <label>
-      <input type="radio" name="theme" value="auto-theme" checked />
-      auto
-    </label>
-    <label>
-      <input type="radio" name="theme" value="light-theme" />
-      licht
-    </label>
-    <label>
-      <input type="radio" name="theme" value="dark-theme" />
-      donker
-    </label>
+    <form>
+      <label for="system-mode">
+        <input
+          type="radio"
+          id="system-mode"
+          name="color-theme"
+          value="auto"
+          checked
+        />
+        auto
+      </label>
+      <label for="light-mode">
+        <input type="radio" id="light-mode" name="color-theme" value="light" />
+        Licht
+      </label>
+      <label for="dark-mode">
+        <input type="radio" id="dark-mode" name="color-theme" value="dark" />
+        Donker
+      </label>
+    </form>
+
     <main>
       <article>
         <h2>Waar deze guide over gaat</h2>
