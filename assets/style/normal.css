@@ -8,17 +8,18 @@
 
 html {
   color-scheme: light dark;
-
-  --background: light-dark(white, black);
-  --textcolor: light-dark(black, yellow);
 }
 
 html:has([value="light"]:checked) {
   color-scheme: light;
+  --background: blue;
+  --textcolor: black;
 }
 
 html:has([value="dark"]:checked) {
   color-scheme: dark;
+  --background: red;
+  --textcolor: yellow;
 }
 
 body {
