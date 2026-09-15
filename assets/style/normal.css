@@ -15,11 +15,11 @@ html {
   );
 }
 
-html:has([value="light-theme"]:checked) {
+html:has([value="light"]:checked) {
   color-scheme: light;
 }
 
-html:has([value="dark-theme"]:checked) {
+html:has([value="dark"]:checked) {
   color-scheme: dark;
 }
 
