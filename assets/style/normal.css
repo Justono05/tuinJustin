@@ -6,6 +6,10 @@
   font-style: normal;
 }
 
+html {
+  color-scheme: light dark;
+}
+
 body {
   font-family: "Comic Relief", system-ui;
   background-color: Canvas;
