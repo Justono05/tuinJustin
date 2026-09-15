@@ -9,7 +9,10 @@
 html {
   color-scheme: light dark;
 
-  --background: light-dark(blue, red);
+  --background: light-dark(
+    linear-gradient(white, blue),
+    linear-gradient(red, yellow)
+  );
 }
 
 html:has([value="light-theme"]:checked) {
@@ -25,5 +28,5 @@ body {
   background-color: Canvas;
   color: CanvasText;
   color-scheme: light dark;
-  background-color: var(--background);
+  background-image: var(--background);
 }
