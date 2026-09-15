@@ -25,5 +25,5 @@ body {
   background-color: Canvas;
   color: CanvasText;
   color-scheme: light dark;
-  background-image: var(--background);
+  background-color: var(--background);
 }
