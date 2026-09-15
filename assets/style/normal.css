@@ -8,7 +8,7 @@
 
 html {
   color-scheme: light dark;
-  --background: light-dark(blue, red);
+  --background: light-dark(green, blue);
 }
 
 html:has([value="light"]:checked) {
