@@ -15,6 +15,18 @@ html {
   max-width: 30em;
 }
 
+html:has([value="light"]:checked) {
+  color-scheme: light;
+  --background: #ffe8a3;
+  --textcolor: #0860bf;
+}
+
+html:has([value="dark"]:checked) {
+  color-scheme: dark;
+  --background: #623dff;
+  --textcolor: #f4dd0b;
+}
+
 body {
   font-family: "Comic Relief", system-ui;
   background-color: var(--background);
