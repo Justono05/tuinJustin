@@ -4,6 +4,17 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 16-09 checkout vragen
+
+1. Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen.
+   symetrie: objecten zien er symetrisch uit als ze om het middenpunt heen staan. Objecten die dichtbij elkaar liggen: wordt gezien als één gezamelijk object/groep. Closure: een connectie vormen terwijl en een stuk van een object ontbreekt.
+
+2. Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?
+   Je kan de grids plaatsen hoe je ze wilt, en je kan ook tekst over meerdere columns of rows laten gaan. Maar grids zijn vaste blokjes waar content in kan, je browser deelt in eerste instatie zelf in waar de grids staan.
+
+3. Welk principe neem je mee in een laatste iteratie van je ontwerp?
+   Ik ga symmetry toepassen en goed gebruik maken van witruimte.
+
 ### 14-09 checkout vragen
 
 1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
