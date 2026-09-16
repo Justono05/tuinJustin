@@ -12,6 +12,7 @@ html {
   --whitespace-m: calc(var(--whitespace-s) * 2);
   --whitespace-l: calc(var(--whitespace-s) * 4);
   --whitespace-xs: calc(var(--whitespace-s) * 0.5);
+  max-width: 30em;
 }
 
 html:has([value="light"]:checked) {
