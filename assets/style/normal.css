@@ -31,17 +31,19 @@ body {
   font-family: "Comic Relief", system-ui;
   background-color: var(--background);
   color: var(--textcolor);
-  margin: var(--whitespace-s);
+  margin-top: var(--whitespace-xs);
+  margin-bottom: var(--whitespace-m);
 }
 
 img {
   max-width: 100%;
   height: auto;
   display: block;
-  margin: var(--whitespace-m);
+  margin-bottom: var(--whitespace-s);
+  margin-top: var(--whitespace-s);
 }
 
 h3 {
-  margin-block-start: var(--whitespace-m);
-  margin-block-end: var(--whitespace-xs);
+  margin-top: var(--whitespace-m);
+  margin-bottom: var(--whitespace-xs);
 }
