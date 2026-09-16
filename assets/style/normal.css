@@ -75,6 +75,17 @@ body {
   margin-top: var(--whitespace-xs);
   margin-bottom: var(--whitespace-m);
   line-height: 1.2em;
+  padding: 3em;
+}
+
+main p::first-letter {
+  font-size: 1.5em;
+}
+
+form {
+  margin-top: var(--whitespace-s);
+  margin-bottom: var(--whitespace-m);
+  font-size: var(--step--1);
 }
 
 img {
@@ -84,6 +95,7 @@ img {
   margin-bottom: var(--whitespace-s);
   margin-top: var(--whitespace-s);
   grid-column-start: 2;
+  border-radius: 10px;
 }
 
 h1 {
