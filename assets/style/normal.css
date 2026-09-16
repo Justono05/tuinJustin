@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: "Lcd";
-  src: url(../type/LCDM2B__.TTF);
+  src: url(../type/LED\ Dot-Matrix\ 400.ttf);
 }
 
 html {
@@ -33,14 +33,39 @@ html:has([value="light"]:checked) {
   color-scheme: light;
   --background: linear-gradient(rgba(255, 246, 207, 1), rgba(255, 226, 99, 1));
   --textcolor: #0860bf;
-  --bordercolor: 3px solid grey;
+  --bordercolor: 3px solid #595959;
+  --colorlink: #f7b059;
+  --colorvisited: purple;
+  --coloroutline: 0.2em dotted red;
 }
 
 html:has([value="dark"]:checked) {
   color-scheme: dark;
   --background: linear-gradient(rgba(91, 0, 181, 1), rgba(170, 0, 255, 1));
   --textcolor: #f4dd0b;
-  --bordercolor: 3px solid white;
+  --bordercolor: 3px solid #e8e8e8;
+  --colorlink: #fd3a3a;
+  --colorvisited: #d4f146;
+  --coloroutline: 0.2em dotted #60f146;
+}
+
+a:link {
+  color: var(--textcolor);
+}
+
+a:hover {
+  color: var(--colorlink);
+  font-size: 1.1em;
+}
+
+a:focus {
+  color: var(--colorlink);
+  outline: var(--coloroutline);
+  font-size: 1.1em;
+}
+
+a:visited {
+  color: var(--colorvisited);
 }
 
 body {
@@ -49,6 +74,7 @@ body {
   color: var(--textcolor);
   margin-top: var(--whitespace-xs);
   margin-bottom: var(--whitespace-m);
+  line-height: 1.2em;
 }
 
 img {
@@ -57,6 +83,7 @@ img {
   display: block;
   margin-bottom: var(--whitespace-s);
   margin-top: var(--whitespace-s);
+  grid-column-start: 2;
 }
 
 h1 {
@@ -68,19 +95,22 @@ h1 {
 h2 {
   font-size: var(--step-1);
   margin-top: var(--whitespace-xs);
-  margin-bottom: var(--whitespace-s);
+  margin-bottom: var(--whitespace-xs);
+  grid-column-start: 1;
+  line-height: 1.2em;
 }
 
 h3 {
   margin-top: var(--whitespace-xs);
   margin-bottom: var(--whitespace-xs);
   font-size: var(--step-0);
+  grid-column-start: 1;
 }
 
 article {
   border: var(--bordercolor);
   border-radius: 10px;
-  padding: 10px;
+  padding: 15px;
   margin-top: var(--whitespace-xs);
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -88,5 +118,6 @@ article {
 
 p {
   font-size: var(--step--1);
-  grid-column-start: 0;
+  grid-column-start: span 2;
+  margin-top: var(--whitespace-xs);
 }
