@@ -6,32 +6,46 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Lcd";
+  src: url(../type/LCDM2B__.TTF);
+}
+
 html {
   --whitespace-s: 1em;
   --whitespace-m: calc(var(--whitespace-s) * 2);
   --whitespace-l: calc(var(--whitespace-s) * 4);
   --whitespace-xs: calc(var(--whitespace-s) * 0.5);
 
+  --step--2: clamp(0.7815rem, 0.9106rem + -0.1435vw, 0.8784rem);
+  --step--1: clamp(0.9372rem, 0.8813rem + 0.2486vw, 1.105rem);
+  --step-0: clamp(1rem, 0.8125rem + 0.8333vw, 1.5625rem);
+  --step-1: clamp(1.067rem, 0.6862rem + 1.6924vw, 2.2094rem);
+  --step-2: clamp(1.1385rem, 0.4766rem + 2.9416vw, 3.1241rem);
+  --step-3: clamp(1.2148rem, 0.1472rem + 4.7447vw, 4.4174rem);
+  --step-4: clamp(1.2962rem, -0.3539rem + 7.3334vw, 6.2462rem);
+  --step-5: clamp(1.383rem, -1.1001rem + 11.0358vw, 8.8322rem);
+
   color-scheme: light dark;
-  max-width: 30em;
-  margin: auto;
 }
 
 html:has([value="light"]:checked) {
   color-scheme: light;
-  --background: #ffe8a3;
+  --background: linear-gradient(rgba(255, 246, 207, 1), rgba(255, 226, 99, 1));
   --textcolor: #0860bf;
+  --bordercolor: 3px solid grey;
 }
 
 html:has([value="dark"]:checked) {
   color-scheme: dark;
-  --background: #623dff;
+  --background: linear-gradient(rgba(91, 0, 181, 1), rgba(170, 0, 255, 1));
   --textcolor: #f4dd0b;
+  --bordercolor: 3px solid white;
 }
 
 body {
-  font-family: "Comic Relief", system-ui;
-  background-color: var(--background);
+  font-family: "Lcd", system-ui;
+  background-image: var(--background);
   color: var(--textcolor);
   margin-top: var(--whitespace-xs);
   margin-bottom: var(--whitespace-m);
@@ -45,7 +59,34 @@ img {
   margin-top: var(--whitespace-s);
 }
 
-h3 {
-  margin-top: var(--whitespace-m);
+h1 {
+  font-size: var(--step-3);
+  margin-top: var(--whitespace-xs);
   margin-bottom: var(--whitespace-xs);
+}
+
+h2 {
+  font-size: var(--step-1);
+  margin-top: var(--whitespace-xs);
+  margin-bottom: var(--whitespace-s);
+}
+
+h3 {
+  margin-top: var(--whitespace-xs);
+  margin-bottom: var(--whitespace-xs);
+  font-size: var(--step-0);
+}
+
+article {
+  border: var(--bordercolor);
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: var(--whitespace-xs);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+p {
+  font-size: var(--step--1);
+  grid-column-start: 0;
 }
