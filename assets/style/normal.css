@@ -7,11 +7,12 @@
 }
 
 html {
-  color-scheme: light dark;
   --whitespace-s: 1em;
   --whitespace-m: calc(var(--whitespace-s) * 2);
   --whitespace-l: calc(var(--whitespace-s) * 4);
   --whitespace-xs: calc(var(--whitespace-s) * 0.5);
+
+  color-scheme: light dark;
   max-width: 30em;
 }
 
