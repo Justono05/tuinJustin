@@ -30,6 +30,7 @@ body {
   font-family: "Comic Relief", system-ui;
   background-color: var(--background);
   color: var(--textcolor);
+  white-space: var(--whitespace-s);
 }
 
 img {
