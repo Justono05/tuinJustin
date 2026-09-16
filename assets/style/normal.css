@@ -31,7 +31,7 @@ body {
   font-family: "Comic Relief", system-ui;
   background-color: var(--background);
   color: var(--textcolor);
-  margin-top: var(--whitespace-xs);
+  margin-top: 0em;
   margin-bottom: var(--whitespace-m);
 }
 
@@ -45,5 +45,5 @@ img {
 
 h3 {
   margin-top: var(--whitespace-m);
-  margin-bottom: var(--whitespace-xs);
+  margin-bottom: 0em;
 }
