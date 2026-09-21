@@ -4,6 +4,17 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 21 sept - checkout vragen
+
+1. Wat zijn HTML landmark role elements?
+   Dit zijn elementen die een belangrijke plek aanduiden op de html pagina, denk aan nav voor navigation elementen, header en footer voor de boven en onderkant van de webpagina etc.
+
+2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+   Heading elementen geven aan hoe belangrijk een stukje tekst is, je begint altijd met h1 voor het belangrijkste of grootste stukje, dan h2, h3 etc.
+
+3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+   Ik zal nogsteeds klikken op "alles accepteren" omdat dit het kortste duurt. Maar dankzij dit college weet ik wel meer over wat voor data er gedeeld wordt aan wat voor soort bedrijven.
+
 ### 17 sept
 
 Laatste aanpassingen website gemaakt + web fluid verfijnd.
