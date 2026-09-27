@@ -68,6 +68,10 @@ a:visited {
   color: var(--colorvisited);
 }
 
+button {
+  font-family: "Lcd", system-ui;
+}
+
 body {
   font-family: "Lcd", system-ui;
   background-image: var(--background);
