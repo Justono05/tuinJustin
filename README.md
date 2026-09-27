@@ -4,6 +4,22 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 25 sept - checkout vragen
+
+1. Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
+
+2. Welke dingen vielen je op?
+
+3. Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
+
+### 23 sept - checkout vragen
+
+1. Wat is een wireflow en wat heb je er aan?
+
+2. Wat zijn dark UX patterns? Geef drie voorbeelden...
+
+3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+
 ### 21 sept - checkout vragen
 
 1. Wat zijn HTML landmark role elements?
