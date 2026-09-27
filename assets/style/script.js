@@ -1,4 +1,9 @@
 function openDialog() {
   const deDialog = document.querySelector("dialog");
-  deDialog.show();
+
+  if (deDialog.open) {
+    deDialog.close();
+  } else {
+    deDialog.show();
+  }
 }
