@@ -4,6 +4,17 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 28 sept - checkout vragen
+
+1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+   Wat een element (h1, p, main etc) betekent boeit hem niet zoveel, maar meer wat het doet.
+
+2. Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+   Visueel, motorisch, auditief en cognitief.
+
+3. Noem drie manieren om door een website te navigeren met jouw screenreader.
+   Ctrl + Opt + U = lijst openen van headings, links, kopjes, etc. Ctrl + Opt + Cmd + pijltjes = selecteer een catagorie in de rotor. Ctrl + Opt + A = hele website voorlezen.
+
 ### 26 sept - html validatie opdracht
 
 ### 25 sept - checkout vragen
