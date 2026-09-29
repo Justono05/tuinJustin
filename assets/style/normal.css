@@ -80,6 +80,8 @@ body {
   margin-bottom: var(--whitespace-m);
   line-height: 1.2em;
   padding: 3em;
+  max-width: 30em;
+  margin: auto;
 }
 
 main p::first-letter {
@@ -101,24 +103,24 @@ img {
   grid-column-start: 2;
   border-radius: 10px;
 }
-
-h1 {
-  font-size: var(--step-3);
+h1,
+h2,
+h3 {
   margin-top: var(--whitespace-xs);
   margin-bottom: var(--whitespace-xs);
+  line-height: 1.2em;
+}
+h1 {
+  font-size: var(--step-3);
 }
 
 h2 {
   font-size: var(--step-1);
-  margin-top: var(--whitespace-xs);
-  margin-bottom: var(--whitespace-xs);
+
   grid-column-start: 1;
-  line-height: 1.2em;
 }
 
 h3 {
-  margin-top: var(--whitespace-xs);
-  margin-bottom: var(--whitespace-xs);
   font-size: var(--step-0);
   grid-column-start: 1;
 }
@@ -136,4 +138,8 @@ p {
   font-size: var(--step--1);
   grid-column-start: span 2;
   margin-top: var(--whitespace-xs);
+}
+
+.eersteParagraaf {
+  grid-column-start: 2;
 }
