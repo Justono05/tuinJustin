@@ -153,33 +153,44 @@ p {
 
 dialog {
   background-color: var(--colorButtonDialog);
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  max-width: 9.3em;
+  color: var(--textcolor);
+  max-width: 15em;
   max-height: 500px;
   position: fixed;
   right: 0;
-  bottom: 20px;
+  bottom: 30px;
   margin: 0;
   overflow-y: scroll;
 }
 
+.eersteDialogP {
+}
+form {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
 dialog button {
   grid-column-start: 2;
-  border-radius: 50%;
+  grid-column-end: 4;
+  border-radius: 100%;
+  color: var(--textcolor);
+  padding: 0.5em;
+  background-color: var(--background);
 }
 
 dialog p {
   font-size: var(--step--5);
-  grid-column-start: 0;
+  grid-column-start: 1;
+  grid-column-end: 2;
 }
 dialog h2 {
   font-size: var(--step--3);
-  grid-column-start: 0;
+  grid-column-start: span 4;
 }
 dialog h3 {
   font-size: var(--step--4);
-  grid-column-start: 0;
+  grid-column-start: span 4;
 }
 
 button:first-child {
@@ -187,4 +198,6 @@ button:first-child {
   bottom: 0;
   left: 0;
   background-color: var(--colorButtonDialog);
+  color: var(--textcolor);
+  padding: 0.5em 3.8em 0.5em 3.8em;
 }
