@@ -17,6 +17,11 @@ html {
   --whitespace-l: calc(var(--whitespace-s) * 4);
   --whitespace-xs: calc(var(--whitespace-s) * 0.5);
 
+  --step--6: clamp(0.4376rem, 0.5861rem + -0.1649vw, 0.549rem);
+  --step--5: clamp(0.5858rem, 0.5747rem + 0.049vw, 0.6188rem);
+  --step--4: clamp(0.625rem, 0.5417rem + 0.3704vw, 0.875rem);
+  --step--3: clamp(0.6669rem, 0.4768rem + 0.845vw, 1.2373rem);
+
   --step--2: clamp(0.7815rem, 0.9106rem + -0.1435vw, 0.8784rem);
   --step--1: clamp(0.9372rem, 0.8813rem + 0.2486vw, 1.105rem);
   --step-0: clamp(1rem, 0.8125rem + 0.8333vw, 1.5625rem);
@@ -37,6 +42,7 @@ html:has([value="light"]:checked) {
   --colorlink: #f7b059;
   --colorvisited: purple;
   --coloroutline: 0.2em dotted red;
+  --colorButtonDialog: rgb(230, 205, 91);
 }
 
 html:has([value="dark"]:checked) {
@@ -47,6 +53,7 @@ html:has([value="dark"]:checked) {
   --colorlink: #fd3a3a;
   --colorvisited: #d4f146;
   --coloroutline: 0.2em dotted #60f146;
+  --colorButtonDialog: rgb(73, 0, 146);
 }
 
 a:link {
@@ -80,7 +87,7 @@ body {
   margin-bottom: var(--whitespace-m);
   line-height: 1.2em;
   padding: 3em;
-  max-width: 30em;
+  max-width: 40em;
   margin: auto;
 }
 
@@ -142,4 +149,42 @@ p {
 
 .eersteParagraaf {
   grid-column-start: 2;
+}
+
+dialog {
+  background-color: var(--colorButtonDialog);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 9.3em;
+  max-height: 500px;
+  position: fixed;
+  right: 0;
+  bottom: 20px;
+  margin: 0;
+  overflow-y: scroll;
+}
+
+dialog button {
+  grid-column-start: 2;
+  border-radius: 50%;
+}
+
+dialog p {
+  font-size: var(--step--5);
+  grid-column-start: 0;
+}
+dialog h2 {
+  font-size: var(--step--3);
+  grid-column-start: 0;
+}
+dialog h3 {
+  font-size: var(--step--4);
+  grid-column-start: 0;
+}
+
+button:first-child {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: var(--colorButtonDialog);
 }
