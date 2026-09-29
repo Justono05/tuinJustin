@@ -163,34 +163,42 @@ dialog {
   overflow-y: scroll;
 }
 
-.eersteDialogP {
-}
 form {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
 dialog button {
-  grid-column-start: 2;
-  grid-column-end: 4;
   border-radius: 100%;
   color: var(--textcolor);
   padding: 0.5em;
   background-color: var(--background);
 }
 
+dialog button:nth-child(even) {
+}
+
+dialog button:nth-child(odd) {
+}
+
 dialog p {
   font-size: var(--step--5);
   grid-column-start: 1;
   grid-column-end: 2;
+  grid-row-start: span 6;
 }
+
 dialog h2 {
   font-size: var(--step--3);
   grid-column-start: span 4;
+  grid-row-start: 1;
 }
+
 dialog h3 {
   font-size: var(--step--4);
   grid-column-start: span 4;
+  grid-row-start: span 6;
 }
 
 button:first-child {
