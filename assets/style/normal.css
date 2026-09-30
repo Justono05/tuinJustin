@@ -1,4 +1,4 @@
-/* HIER KOMT JOUW CSS */
+/* FONT FACES */
 @font-face {
   font-family: "Comic Relief";
   src: url(../type/ComicRelief-Regular.woff2);
@@ -10,6 +10,8 @@
   font-family: "Lcd";
   src: url(../type/LED\ Dot-Matrix\ 400.ttf);
 }
+
+/*HTML EN SELECTORS*/
 
 html {
   --whitespace-s: 1em;
@@ -43,6 +45,8 @@ html:has([value="light"]:checked) {
   --colorvisited: purple;
   --coloroutline: 0.2em dotted red;
   --colorButtonDialog: rgb(230, 205, 91);
+  --colorbuttonfocus: rgb(255, 247, 213);
+  --colorbuttonactive: rgb(193, 186, 159);
 }
 
 html:has([value="dark"]:checked) {
@@ -54,7 +58,11 @@ html:has([value="dark"]:checked) {
   --colorvisited: #d4f146;
   --coloroutline: 0.2em dotted #60f146;
   --colorButtonDialog: rgb(73, 0, 146);
+  --colorbuttonfocus: rgb(193, 70, 255);
+  --colorbuttonactive: rgb(136, 49, 180);
 }
+
+/*KLEUREN LINKS*/
 
 a:link {
   color: var(--textcolor);
@@ -151,6 +159,8 @@ p {
   grid-column-start: 2;
 }
 
+/*COOKIE POPUP*/
+
 dialog {
   background-color: var(--colorButtonDialog);
   color: var(--textcolor);
@@ -174,12 +184,6 @@ dialog button {
   color: var(--textcolor);
   padding: 0.5em;
   background-color: var(--background);
-}
-
-dialog button:nth-child(even) {
-}
-
-dialog button:nth-child(odd) {
 }
 
 dialog p {
@@ -208,4 +212,19 @@ button:first-child {
   background-color: var(--colorButtonDialog);
   color: var(--textcolor);
   padding: 0.5em 3.8em 0.5em 3.8em;
+}
+
+/*BUTTON STATES*/
+
+button:focus {
+  background-color: var(--colorbuttonfocus);
+  outline: var(--coloroutline);
+}
+
+button:hover {
+  background-color: var(--colorbuttonfocus);
+}
+
+button:active {
+  background-color: var(--colorbuttonactive);
 }
