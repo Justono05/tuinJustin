@@ -184,6 +184,16 @@ Vandaag heb ik de artikelen als huiswerk gelezen en de deepdive button, states e
    Vandaag hebben we een cookie consent form moeten invullen adhv 3 webpaginas. Hier de resultaten:
    <img src="./Afbeeldingen/Cookieconsentform.png">
 
+### 18 sept - checkout
+
+MOET IK NOG MAKEN!
+
+### 18 sept - Retrospect tekening
+
+<img src="./Afbeeldingen/retrospect1.png">
+<img src="./Afbeeldingen/retrospect2.png">
+<img src="./Afbeeldingen/retrospect3.png">
+
 ### 17 sept
 
 Laatste aanpassingen website gemaakt + web fluid verfijnd.
