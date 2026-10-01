@@ -11,6 +11,13 @@ Bij de screenreader heb ik kunnen oplossen dat de knoppen wel duidelijk worden a
 Dit heb is gedaan door Aria-label toe te voegen aan de button, zo kan ik daarin zetten wat ik wil dat de screenreader voorleest aan de gebruiker over wat de knop doet. Nu ziet de formuliersregelaar tab er zo uit:
 <img src="./Afbeeldingen/formuliersreglaars3.png">
 
+En op deze manier heb ik ook de links gefixed:
+<img src="./Afbeeldingen/linkbefore.png">
+Dit was voorheen, omgetoverd naar:
+<img src="./Afbeeldingen/linkafter.png">
+en zo ziet het link menu er in de screanreader uit:
+<img src="./Afbeeldingen/linkmenu2.png">
+
 ### 30 sept - Toegankelijkheid testen
 
 1. Aleen toetsenbord test:
