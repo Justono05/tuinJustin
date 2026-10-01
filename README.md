@@ -18,7 +18,7 @@ Dit was voorheen, omgetoverd naar:
 en zo ziet het link menu er in de screanreader uit:
 <img src="./Afbeeldingen/linkmenu2.png">
 
-Ook om het contrast te fixen heb ik bij het donker thema de gradient iets donkerder gemaakt.
+Ook om het contrast te fixen heb ik bij het donker thema de gradient iets donkerder gemaakt. Helaas heb ik geen tijd meer gehad om een high contrast mode en een text 200% mode toe te passen.
 
 ### 30 sept - Toegankelijkheid testen
 
@@ -50,6 +50,19 @@ Skip to content link niet nodig aangezien alle content al op de homepagina staat
    <img src="./Afbeeldingen/fotonaambefore.png">
    aangepast naar :
    <img src="./Afbeeldingen/fotonaamafter.png"> 3. WCAG-checklist:
+   <img src="./Afbeeldingen/wcagchecklist1.png">
+   <img src="./Afbeeldingen/wcagchecklist2.png">
+   <img src="./Afbeeldingen/wcagchecklist3.png">
+   <img src="./Afbeeldingen/wcagchecklist4.png">
+   <img src="./Afbeeldingen/wcagchecklist5.png">
+   <img src="./Afbeeldingen/wcagchecklist6.png">
+   <img src="./Afbeeldingen/wcagchecklist7.png">
+   <img src="./Afbeeldingen/wcagchecklist8.png">
+   Aan bijna alles voldoet mijn webpagina aan in de wcag-checklist. Ook is de contrast op mijn webpagina groot genoeg voor kleurenblinden:
+   <img src="./Afbeeldingen/Kleurenblind1.png">
+   <img src="./Afbeeldingen/Kleurenblind2.png">
+   <img src="./Afbeeldingen/Kleurenblind3.png">
+   <img src="./Afbeeldingen/Kleurenblind4.png">
 
 ### 28 sept - checkout vragen
 
@@ -72,13 +85,51 @@ Skip to content link niet nodig aangezien alle content al op de homepagina staat
 
 3. Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
 
+### 24 sept - deepdive buttons en dialogs
+
+Vandaag heb ik de deepdive buttons en dialogs gedaan:
+<img src="./Afbeeldingen/buttonsoefening11.png">
+<img src="./Afbeeldingen/buttonsoefening12.png">
+<img src="./Afbeeldingen/buttonsoefening13.png">
+<img src="./Afbeeldingen/buttonsoefening14.png">
+Dit was oefening 1 van de buttons en dialogs deepdive.
+<img src="./Afbeeldingen/buttonsoefening21.png">
+<img src="./Afbeeldingen/buttonsoefening22.png">
+<img src="./Afbeeldingen/buttonsoefening23.png">
+Dit is oefening 2 van de buttons en dialogs deepdive, hiermee kon je een poppetje laten springen als je op de knop drukt. Op de afbeelding zie je het niet, maar het poppetje sprong echt!
+<img src="./Afbeeldingen/buttonsoefening3.png">
+Dit was de laatste oefening van de deepdive buttons.
+<img src="./Afbeeldingen/dialogsoefening1.png">
+<img src="./Afbeeldingen/dialogsoefening2.png">
+<img src="./Afbeeldingen/dialogsoefening3.png">
+<img src="./Afbeeldingen/dialogsoefening4.png">
+Dit zijn enkele afbeeldingen van de oefening met de dialogs.
+
+Helaas vandaag geen tijd gehad om alvast aan mijn html te werken, dit zal ik de volgende keer doen.
+
 ### 23 sept - checkout vragen
 
 1. Wat is een wireflow en wat heb je er aan?
-
+   Een Wireflow toont een aantal schermen van een interactie. Het is nuttig zo op papier te zetten wat de gebruiker te zien krijgt.
 2. Wat zijn dark UX patterns? Geef drie voorbeelden...
-
+   dark ux patterns zijn ontwerpkeuzes in websites of apps die gebruikers bewust sturen naar iets wat ze waarschijnlijk niet zouden kiezen als alle opties even duidelijk en eerlijk waren. Het werkt dus in voordeel van de organisatie en niet van de gebruiker. 1. verborgen kosten, pas bij de checkout blijkt dat de prijs duurder is geworden omdat er niet vermelde kosten bijkomen. 2. Stiekem verlenging, een gratis proefperiode gaat geruisloos door in een bataald abonnement. 3. Valse schaartse of urgentie, dit zijn nep aftellers of de gebruiker onder tijdsdruk zetten terwijl er niks aan de hand is.
 3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+   Je moet de gebruiker goed informeren en zonder druk toestemming kunnen laten geven.
+
+### 23 sept - mijn human consent ontwerp + onderzoek
+
+Onderzoek gedaan naar hoe je om cookies kan vragen, wat voor info erbij moet komen te staan en hoe andere webpagina's om cookies vragen:
+<img src="./Afbeeldingen/humanconsent1.png">
+Hier zie je rechts 10 voorbeelden van hoe een cookie popup eruit kan komen te zien. Links staat wat voor informatie ik moet geven en wat voor cookies mijn tuintje gebruikt.
+<img src="./Afbeeldingen/humanconsent2.png">
+Hier zie je mijn eigen gemaakte popup op papier, die ik wil proberen na te maken op mijn website.
+
+### 22 sept
+
+Vandaag heb ik de artikelen als huiswerk gelezen en de deepdive button, states en selectors gedaan:
+<img src="./Afbeeldingen/buttondeepdive1.png">
+<img src="./Afbeeldingen/buttondeepdive2.png">
+<img src="./Afbeeldingen/buttondeepdive3.png">
 
 ### 21 sept - checkout vragen
 
@@ -90,6 +141,11 @@ Skip to content link niet nodig aangezien alle content al op de homepagina staat
 
 3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
    Ik zal nogsteeds klikken op "alles accepteren" omdat dit het kortste duurt. Maar dankzij dit college weet ik wel meer over wat voor data er gedeeld wordt aan wat voor soort bedrijven.
+
+   ### 21 sept - cookie consent form
+
+   Vandaag hebben we een cookie consent form moeten invullen adhv 3 webpaginas. Hier de resultaten:
+   <img src="./Afbeeldingen/Cookieconsentform.png">
 
 ### 17 sept
 
