@@ -4,6 +4,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 31 - toegankelijkheid test verder uitwerken
+
+Bij de screenreader heb ik kunnen oplossen dat de knoppen wel duidelijk worden aangegeven wat het doet, zonder dat de tekst visueel te zien is.
+<img src="./Afbeeldingen/Arialabel.png">
+Dit heb is gedaan door Aria-label toe te voegen aan de button, zo kan ik daarin zetten wat ik wil dat de screenreader voorleest aan de gebruiker over wat de knop doet. Nu ziet de formuliersregelaar tab er zo uit:
+<img src="./Afbeeldingen/formuliersreglaars3.png">
+
 ### 30 sept - Toegankelijkheid testen
 
 1. Aleen toetsenbord test:

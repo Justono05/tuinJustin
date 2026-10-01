@@ -25,17 +25,30 @@
           type="radio"
           id="system-mode"
           name="color-theme"
+          aria-label="Automatische light-dark mode"
           value="auto"
           checked
         />
         auto
       </label>
       <label for="light-mode">
-        <input type="radio" id="light-mode" name="color-theme" value="light" />
+        <input
+          type="radio"
+          id="light-mode"
+          aria-label="lichte modus"
+          name="color-theme"
+          value="light"
+        />
         Licht
       </label>
       <label for="dark-mode">
-        <input type="radio" id="dark-mode" name="color-theme" value="dark" />
+        <input
+          type="radio"
+          id="dark-mode"
+          aria-label="Donkere modus"
+          name="color-theme"
+          value="dark"
+        />
         Donker
       </label>
     </form>
@@ -60,8 +73,12 @@
             deze cookies kunnen bepaalde onderdelen van de website niet goed
             werken.
           </p>
-          <button type="button">Aan</button>
-          <button type="button">Uit</button>
+          <button type="button" aria-label="Aan voor Noodzakelijke cookies">
+            Aan
+          </button>
+          <button type="button" aria-label="Uit voor Noodzakelijke cookies">
+            Uit
+          </button>
           <h3>Analytische cookies</h3>
           <p>
             Deze cookies zijn bedoeld om de website eigenaar te laten begrijpen
@@ -69,8 +86,12 @@
             hoevaak de pagina's worden bezocht, hoe lang bezoekers op de pagina
             blijven en welke knoppen het meest worden aangeklikt.
           </p>
-          <button type="button">Aan</button>
-          <button type="button">Uit</button>
+          <button type="button" aria-label="Aan voor Analytische cookies">
+            Aan
+          </button>
+          <button type="button" aria-label="Uit voor Analytische cookies">
+            Uit
+          </button>
           <h3>voorkeurscookies</h3>
           <p>
             Deze cookies zijn ervoor bedoeld om gebruikersvoorkeuren en
@@ -79,15 +100,23 @@
             taal. Hierdoor hoef je je voorkeuren niet opnieuw in te stellen als
             je de webite opnieuw bezoekt.
           </p>
-          <button type="button">Aan</button>
-          <button type="button">Uit</button>
+          <button type="button" aria-label="Aan voor Voorkeurs cookies">
+            Aan
+          </button>
+          <button type="button" aria-label="Uit voor Voorkeurs cookies">
+            Uit
+          </button>
           <h3>advertentiecookis</h3>
           <p>
             Deze cookies onthouden welke pagina's of producten je hebt bekeken,
             zo kunnen er gepersonaliseerde advertenties aan je worden getoond.
           </p>
-          <button type="button">Aan</button>
-          <button type="button">Uit</button>
+          <button type="button" aria-label="Aan voor Advertentie cookies">
+            Aan
+          </button>
+          <button type="button" aria-label="Uit voor Advertentie cookies">
+            Uit
+          </button>
           <h3>beveiligingscookies</h3>
           <p>
             Deze cookies helpen de gebruiker te beschermen tegen misbruik en
@@ -95,8 +124,12 @@
             gebruiker afkomstig zijn en kunnen worden gebruikt om verdachte
             activiteiten te herkennen.
           </p>
-          <button type="button">Aan</button>
-          <button type="button">Uit</button>
+          <button type="button" aria-label="Aan voor Beveiligings cookies">
+            Aan
+          </button>
+          <button type="button" aria-label="Uit voor Beveiligingscookies">
+            Uit
+          </button>
         </form>
       </dialog>
       <article>
