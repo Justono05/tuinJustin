@@ -18,6 +18,8 @@ Dit was voorheen, omgetoverd naar:
 en zo ziet het link menu er in de screanreader uit:
 <img src="./Afbeeldingen/linkmenu2.png">
 
+Ook om het contrast te fixen heb ik bij het donker thema de gradient iets donkerder gemaakt.
+
 ### 30 sept - Toegankelijkheid testen
 
 1. Aleen toetsenbord test:
@@ -47,8 +49,7 @@ Skip to content link niet nodig aangezien alle content al op de homepagina staat
    Als je door alle elementen van de pagina scrolt door ctrl + opt + < of >, dan wordt alles netjes op volgorde voorgelezen. Dus eerst de heading, dan wat de afbeelding is, dan de tekst, dan link, dan weer tekst en daarna vermeld de screanreader wanneer het kopje is afgelopen. Is zal alleen wel wat alt-teksten moeten aanpassen zodat er beter vermeld wordt wat de afbeeldingen inhoud.
    <img src="./Afbeeldingen/fotonaambefore.png">
    aangepast naar :
-   <img src="./Afbeeldingen/fotonaamafter.png">
-   3. WCAG-checklist
+   <img src="./Afbeeldingen/fotonaamafter.png"> 3. WCAG-checklist:
 
 ### 28 sept - checkout vragen
 

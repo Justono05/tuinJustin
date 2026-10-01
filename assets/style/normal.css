@@ -51,7 +51,7 @@ html:has([value="light"]:checked) {
 
 html:has([value="dark"]:checked) {
   color-scheme: dark;
-  --background: linear-gradient(rgba(91, 0, 181, 1), rgba(170, 0, 255, 1));
+  --background: linear-gradient(rgb(64, 0, 127), rgb(125, 0, 188));
   --textcolor: #f4dd0b;
   --bordercolor: 3px solid #e8e8e8;
   --colorlink: #fd3a3a;
