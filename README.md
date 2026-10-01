@@ -49,21 +49,20 @@ Skip to content link niet nodig aangezien alle content al op de homepagina staat
    Als je door alle elementen van de pagina scrolt door ctrl + opt + < of >, dan wordt alles netjes op volgorde voorgelezen. Dus eerst de heading, dan wat de afbeelding is, dan de tekst, dan link, dan weer tekst en daarna vermeld de screanreader wanneer het kopje is afgelopen. Is zal alleen wel wat alt-teksten moeten aanpassen zodat er beter vermeld wordt wat de afbeeldingen inhoud.
    <img src="./Afbeeldingen/fotonaambefore.png">
    aangepast naar :
-   <img src="./Afbeeldingen/fotonaamafter.png">
-   3. WCAG-checklist:
-      <img src="./Afbeeldingen/wcagchecklist1.png">
-      <img src="./Afbeeldingen/wcagchecklist2.png">
-      <img src="./Afbeeldingen/wcagchecklist3.png">
-      <img src="./Afbeeldingen/wcagchecklist4.png">
-      <img src="./Afbeeldingen/wcagchecklist5.png">
-      <img src="./Afbeeldingen/wcagchecklist6.png">
-      <img src="./Afbeeldingen/wcagchecklist7.png">
-      <img src="./Afbeeldingen/wcagchecklist8.png">
-      Aan bijna alles voldoet mijn webpagina aan in de wcag-checklist. Ook is de contrast op mijn webpagina groot genoeg voor kleurenblinden:
-      <img src="./Afbeeldingen/Kleurenblind1.png">
-      <img src="./Afbeeldingen/Kleurenblind2.png">
-      <img src="./Afbeeldingen/Kleurenblind3.png">
-      <img src="./Afbeeldingen/Kleurenblind4.png">
+   <img src="./Afbeeldingen/fotonaamafter.png"> 3. WCAG-checklist:
+   <img src="./Afbeeldingen/wcagchecklist1.png">
+   <img src="./Afbeeldingen/wcagchecklist2.png">
+   <img src="./Afbeeldingen/wcagchecklist3.png">
+   <img src="./Afbeeldingen/wcagchecklist4.png">
+   <img src="./Afbeeldingen/wcagchecklist5.png">
+   <img src="./Afbeeldingen/wcagchecklist6.png">
+   <img src="./Afbeeldingen/wcagchecklist7.png">
+   <img src="./Afbeeldingen/wcagchecklist8.png">
+   Aan bijna alles voldoet mijn webpagina aan in de wcag-checklist. Ook is de contrast op mijn webpagina groot genoeg voor kleurenblinden:
+   <img src="./Afbeeldingen/Kleurenblind1.png">
+   <img src="./Afbeeldingen/Kleurenblind2.png">
+   <img src="./Afbeeldingen/Kleurenblind3.png">
+   <img src="./Afbeeldingen/Kleurenblind4.png">
 
 ### 28 sept - checkout vragen
 
@@ -105,6 +104,8 @@ En dit is hoe het hoort.
 
 <img src="./Afbeeldingen/wcagvalidatieafter.png">
 Dit is nu wat er nog overblijft, de docent zij zelf dat een /> als sluiting niet nodig is na een img element, maar wel fijn is. Dus dit laat ik zo. Het heeft voorderest geen effect op wat de html doet.
+
+Ook heb ik een deel gedaan van de deepdive postions + dialogs, alleen ben ik vergeten screenshots te maken, ook heb ik de deepdive nog niet helemaal afgerond.
 
 ### 25 sept - checkout vragen
 
