@@ -48,6 +48,7 @@ Skip to content link niet nodig aangezien alle content al op de homepagina staat
    <img src="./Afbeeldingen/fotonaambefore.png">
    aangepast naar :
    <img src="./Afbeeldingen/fotonaamafter.png">
+   3. WCAG-checklist
 
 ### 28 sept - checkout vragen
 
