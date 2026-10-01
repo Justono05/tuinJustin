@@ -6,6 +6,35 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 30 sept - Toegankelijkheid testen
 
+1. Aleen toetsenbord test:
+   Alles van de pagina is te bereiken met alleen het gebruik van een toetsenbord. De knoppen van de cookie dialog zijn ook indrukbaar met spatie:
+   <img src="./Afbeeldingen/toetsenbordTestIngedrukt.png">
+
+Ook zijn er duidelijke focus states, zodat je met tab kan zien op welke link je staat:
+<img src="./Afbeeldingen/TabLight.png">
+<img src="./Afbeeldingen/TabDark.png">
+
+Skip to content link niet nodig aangezien alle content al op de homepagina staat. Er zijn ook geen meerdere paginas
+
+2. screenreader:
+   Als je de lijst opent staat het meeste duidelijk aangegeven over wat het inhoud of doet:
+   <img src="./Afbeeldingen/Formulierregelaars.png">
+   Nog niet bij elke knop staat goed uitgelegd wat het doet, zoals bij de light-dark knoppen.
+   <img src="./Afbeeldingen/koppen.png">
+   Koppen staan goed met de juiste header getal, ook worden er geen header nummers geskipt.
+   <img src="./Afbeeldingen/linkws.png">
+   Links staan er ook goed in, alleen omdat de links in verhalende stijl in de tekst staat is het soms onduidelijk wat de link precies doet.
+   <img src="./Afbeeldingen/orientatiepunt.png">
+   Hier staan de stappen goed in chronologische volgorde uitgelegd, zoals ook de bedoeling is.
+
+   Alleen als de cookie dialog is uitgeklapt staat in de screenreader niet bij welke knop voor welke cookie is:
+   <img src="./Afbeeldingen/formulierregelaars2.png">
+
+   Als je door alle elementen van de pagina scrolt door ctrl + opt + < of >, dan wordt alles netjes op volgorde voorgelezen. Dus eerst de heading, dan wat de afbeelding is, dan de tekst, dan link, dan weer tekst en daarna vermeld de screanreader wanneer het kopje is afgelopen. Is zal alleen wel wat alt-teksten moeten aanpassen zodat er beter vermeld wordt wat de afbeeldingen inhoud.
+   <img src="./Afbeeldingen/fotonaambefore.png">
+   aangepast naar :
+   <img src="./Afbeeldingen/fotonaamafter.png">
+
 ### 28 sept - checkout vragen
 
 1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
