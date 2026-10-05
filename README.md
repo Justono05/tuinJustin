@@ -4,7 +4,31 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 31 - toegankelijkheid test verder uitwerken
+### 5 okt - checkout vragen
+
+1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
+   Kerning: Ruimte tussen twee specifieke letters.
+   Tracking: Ruimte tussen alle letters in een woord/zin.
+   Leading: Regelafstand.
+   Flush-left: Links uitgelijnd.
+   Flush-right: Rechts uitgelijnd.
+   Centered: Gecentreerd in het midden.
+   Justified: Uitgevuld (zowel links als rechts uitgelijnd).
+   Indent: Inspringen van tekst.
+   Outdent: Uitspringen van tekst (eerste regel steekt uit).
+   Modular scale: Harmonieuze verhouding voor lettergroottes.
+   Movable type: Losse, herbruikbare drukletters.
+   Focus punt: Waar de aandacht als eerste naartoe gaat in een ontwerp.
+   Vijf soorten contrast: Contrast in typografie: grootte, gewicht, structuur (lettertype), vorm en kleur.
+   Spatial tension: Visuele spanning door de afstand en plaatsing van elementen.
+
+2. Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+   tussen de 60 en 70 characters, dit wordt gezien als de ideale regelafstand en dit werkt voor mij ook het beste.
+
+3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+   Bij mijn ontwerp zou plaatsen het beste passen, aangezien veel van mijn schetsen veel verschillende individuele letterplaatsing bevatten.
+
+### 31 sept - toegankelijkheid test verder uitwerken
 
 Bij de screenreader heb ik kunnen oplossen dat de knoppen wel duidelijk worden aangegeven wat het doet, zonder dat de tekst visueel te zien is.
 <img src="./Afbeeldingen/Arialabel.png">
