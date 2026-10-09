@@ -4,6 +4,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 8 okt - checkout vragen
+
+1. Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+
+2. Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+
+3. Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
+
 ### 7 okt - checkout vragen
 
 1. Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
