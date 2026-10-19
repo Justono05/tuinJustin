@@ -16,23 +16,50 @@ main {
   grid-template-rows: 30px 1fr 40px 1fr 30px 1fr 30px 1fr 30px 1fr 30px 1fr 1fr;
 }
 
-p:nth-of-type(1) strong:nth-of-type(1) {
-  font-size: clamp(0.25em, 1vw, 0.5em);
-}
-
 strong {
   font-size: clamp(1em, 4vw, 2.5em);
   font-variation-settings:
     "wght" 120,
     "SRFS" 40;
 }
+p:nth-of-type(2) span:nth-of-type(1) {
+  font-variation-settings: "wght" 100;
+}
+
+p:nth-of-type(2) span:nth-of-type(2) {
+  font-variation-settings: "wght" 112;
+}
+
+p:nth-of-type(2) span:nth-of-type(3) {
+  font-variation-settings: "wght" 125;
+}
+
+p:nth-of-type(2) span:nth-of-type(4) {
+  font-variation-settings: "wght" 137;
+}
+
+p:nth-of-type(2) span:nth-of-type(5) {
+  font-variation-settings: "wght" 150;
+}
+
+p:nth-of-type(2) span:nth-of-type(6) {
+  font-variation-settings: "wght" 162;
+}
+
+p:nth-of-type(2) span:nth-of-type(7) {
+  font-variation-settings: "wght" 175;
+}
+
+p:nth-of-type(2) span:nth-of-type(8) {
+  font-variation-settings: "wght" 188;
+}
 
 em {
-  letter-spacing: 5px;
+  letter-spacing: 3px;
   font-style: normal;
 }
 p:nth-of-type(12) em {
-  word-spacing: -10px;
+  word-spacing: -8px;
 }
 
 p:nth-of-type(1) {
