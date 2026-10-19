@@ -24,34 +24,47 @@ strong {
 }
 p:nth-of-type(2) span:nth-of-type(1) {
   font-variation-settings: "wght" 100;
+  font-size: clamp(0.5em, 2vw, 1.5em);
+  letter-spacing: 3px;
 }
 
 p:nth-of-type(2) span:nth-of-type(2) {
   font-variation-settings: "wght" 112;
+  letter-spacing: 3px;
 }
 
 p:nth-of-type(2) span:nth-of-type(3) {
   font-variation-settings: "wght" 125;
+  letter-spacing: 3px;
 }
 
 p:nth-of-type(2) span:nth-of-type(4) {
   font-variation-settings: "wght" 137;
+  letter-spacing: 3px;
 }
 
 p:nth-of-type(2) span:nth-of-type(5) {
   font-variation-settings: "wght" 150;
+  letter-spacing: 3px;
 }
 
 p:nth-of-type(2) span:nth-of-type(6) {
   font-variation-settings: "wght" 162;
+  letter-spacing: 3px;
 }
 
 p:nth-of-type(2) span:nth-of-type(7) {
   font-variation-settings: "wght" 175;
+  letter-spacing: 3px;
 }
 
 p:nth-of-type(2) span:nth-of-type(8) {
   font-variation-settings: "wght" 188;
+  letter-spacing: 3px;
+}
+
+p:nth-of-type(2) span:nth-of-type(9) {
+  font-variation-settings: "wght" 200;
 }
 
 em {
