@@ -3,6 +3,41 @@
   font-family: "Seraphs";
   src: url("font/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
 }
+
+@keyframes --bounce-animatie {
+  0%,
+  100% {
+    bottom: 0px;
+  }
+  50% {
+    bottom: 4px;
+  }
+}
+
+@keyframes --scare-animatie {
+  0%,
+  100% {
+    font-variation-settings:
+      "wght" 120,
+      "SRFS" 0;
+  }
+  25% {
+    font-variation-settings:
+      "wght" 120,
+      "SRFS" 20;
+  }
+  50% {
+    font-variation-settings:
+      "wght" 120,
+      "SRFS" 40;
+  }
+  75% {
+    font-variation-settings:
+      "wght" 120,
+      "SRFS" 60;
+  }
+}
+
 /* MARK: items */
 body {
   font-family: "Seraphs";
@@ -13,7 +48,7 @@ body {
 main {
   display: grid;
   grid-template-columns: 20px 100px 50px 50px 1fr;
-  grid-template-rows: 30px 1fr 40px 1fr 30px 1fr 30px 1fr 30px 1fr 30px 1fr 1fr;
+  grid-template-rows: 30px 1fr 40px 1fr 40px 1fr 30px 1fr 30px 1fr 30px 1fr 1fr;
 }
 
 strong {
@@ -22,9 +57,14 @@ strong {
     "wght" 120,
     "SRFS" 40;
 }
+
+em {
+  letter-spacing: 3px;
+  font-style: normal;
+}
+
 p:nth-of-type(2) span:nth-of-type(1) {
   font-variation-settings: "wght" 100;
-  font-size: clamp(0.5em, 2vw, 1.5em);
   letter-spacing: 3px;
 }
 
@@ -63,16 +103,10 @@ p:nth-of-type(2) span:nth-of-type(8) {
   letter-spacing: 3px;
 }
 
-p:nth-of-type(2) span:nth-of-type(9) {
-  font-variation-settings: "wght" 200;
-}
-
-em {
-  letter-spacing: 3px;
-  font-style: normal;
-}
-p:nth-of-type(12) em {
-  word-spacing: -8px;
+p:nth-of-type(2) strong {
+  animation-name: --scare-animatie;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
 }
 
 p:nth-of-type(1) {
@@ -85,15 +119,33 @@ p:nth-of-type(2) {
   grid-column-end: 5;
   grid-row-start: 2;
 }
-p:nth-of-type(3) strong {
-  display: inline-block;
-  transform: rotate(7deg);
-}
 
 p:nth-of-type(3) {
   grid-column-start: 4;
   grid-column-end: 6;
   grid-row-start: 3;
+}
+p:nth-of-type(3) strong {
+  letter-spacing: 5px;
+}
+
+p:nth-of-type(3) span:nth-of-type(1) {
+  position: relative;
+  margin-right: -28px;
+  z-index: 2;
+}
+
+p:nth-of-type(3) span:nth-of-type(2) {
+  font-size: clamp(1em, 7vw, 2.5em);
+  position: relative;
+  top: 5px;
+  z-index: 1;
+}
+
+p:nth-of-type(3) span:nth-of-type(3) {
+  position: relative;
+  margin-left: -8px;
+  z-index: 2;
 }
 
 p:nth-of-type(4) {
@@ -102,10 +154,99 @@ p:nth-of-type(4) {
   grid-row-start: 4;
 }
 
+p:nth-of-type(4) span:nth-of-type(1) {
+  position: relative;
+  animation-name: --bounce-animatie;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+p:nth-of-type(4) span:nth-of-type(2) {
+  position: relative;
+  animation-name: --bounce-animatie;
+  animation-duration: 2s;
+  animation-delay: 0.5s;
+  animation-iteration-count: infinite;
+}
+
+p:nth-of-type(4) span:nth-of-type(3) {
+  position: relative;
+  animation-name: --bounce-animatie;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+p:nth-of-type(4) span:nth-of-type(4) {
+  position: relative;
+  animation-name: --bounce-animatie;
+  animation-duration: 2s;
+  animation-delay: 0.5s;
+  animation-iteration-count: infinite;
+}
+
+p:nth-of-type(4) span:nth-of-type(5) {
+  position: relative;
+  animation-name: --bounce-animatie;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+p:nth-of-type(4) span:nth-of-type(6) {
+  position: relative;
+  animation-name: --bounce-animatie;
+  animation-duration: 2s;
+  animation-delay: 0.5s;
+  animation-iteration-count: infinite;
+}
+
 p:nth-of-type(5) {
   grid-column-start: 1;
   grid-column-end: 4;
   grid-row-start: 5;
+}
+
+p:nth-of-type(5) {
+  span {
+    letter-spacing: normal;
+    transition-duration: 0.2s;
+    transition-delay: calc(sibling-index() * 0.05s);
+  }
+}
+
+p:nth-of-type(5):hover {
+  span {
+    letter-spacing: 5px;
+  }
+  span:nth-child(1) {
+    font-size: clamp(0.5em, 2vw, 1.5em);
+  }
+
+  span:nth-child(2) {
+    font-size: clamp(0.5625em, 2.25vw, 1.625em);
+  }
+
+  span:nth-child(3) {
+    font-size: clamp(0.625em, 2.5vw, 1.75em);
+  }
+
+  span:nth-child(4) {
+    font-size: clamp(0.6875em, 2.75vw, 1.875em);
+  }
+
+  span:nth-child(5) {
+    font-size: clamp(0.75em, 3vw, 2em);
+  }
+
+  span:nth-child(6) {
+    font-size: clamp(0.8125em, 3.25vw, 2.125em);
+  }
+
+  span:nth-child(7) {
+    font-size: clamp(0.875em, 3.5vw, 2.25em);
+  }
+
+  span:nth-child(8) {
+    font-size: clamp(1em, 3.75vw, 2.5em);
+  }
 }
 
 p:nth-of-type(6) {
@@ -148,6 +289,10 @@ p:nth-of-type(12) {
   grid-column-start: 5;
   grid-column-end: 6;
   grid-row-start: 12;
+}
+
+p:nth-of-type(12) em {
+  word-spacing: -8px;
 }
 
 p:nth-of-type(13) {
