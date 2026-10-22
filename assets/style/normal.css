@@ -11,6 +11,15 @@
   src: url(../type/LED\ Dot-Matrix\ 400.ttf);
 }
 
+@keyframes --progress-animatie {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
 /*HTML EN SELECTORS*/
 
 html {
@@ -47,6 +56,7 @@ html:has([value="light"]:checked) {
   --colorButtonDialog: rgb(230, 205, 91);
   --colorbuttonfocus: rgb(255, 247, 213);
   --colorbuttonactive: rgb(193, 186, 159);
+  --colorprogress: #5408bf;
 }
 
 html:has([value="dark"]:checked) {
@@ -60,6 +70,7 @@ html:has([value="dark"]:checked) {
   --colorButtonDialog: rgb(73, 0, 146);
   --colorbuttonfocus: rgb(193, 70, 255);
   --colorbuttonactive: rgb(136, 49, 180);
+  --colorprogress: #f4b60b;
 }
 
 /*KLEUREN LINKS*/
@@ -97,6 +108,18 @@ body {
   padding: 3em;
   max-width: 40em;
   margin: auto;
+}
+#progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5px;
+  background-color: var(--colorprogress);
+  transform-origin: 0 50%;
+  animation-name: --progress-animatie;
+  animation-timing-function: linear;
+  animation-timeline: scroll();
 }
 
 main p::first-letter {
