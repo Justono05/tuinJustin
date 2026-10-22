@@ -97,7 +97,7 @@ html:has([value="light"]:checked) {
   --colorButtonDialog: rgb(230, 205, 91);
   --colorbuttonfocus: rgb(255, 247, 213);
   --colorbuttonactive: rgb(193, 186, 159);
-  --colorprogress: #5408bf;
+  --colorprogress: linear-gradient(90deg, #5408bf, #080ebf);
 }
 
 html:has([value="dark"]:checked) {
@@ -111,7 +111,7 @@ html:has([value="dark"]:checked) {
   --colorButtonDialog: rgb(73, 0, 146);
   --colorbuttonfocus: rgb(193, 70, 255);
   --colorbuttonactive: rgb(136, 49, 180);
-  --colorprogress: #f4b60b;
+  --colorprogress: linear-gradient(90deg, #f4b60b, #f4dd0b);
 }
 
 /*KLEUREN LINKS*/
@@ -156,7 +156,7 @@ body {
   left: 0;
   width: 100%;
   height: 5px;
-  background-color: var(--colorprogress);
+  background-image: var(--colorprogress);
   transform-origin: 0 50%;
   animation-name: --progress-animatie;
   animation-timing-function: linear;
@@ -187,6 +187,7 @@ img {
   animation-timeline: view();
   animation-range: entry 0% cover 50%;
 }
+
 h1,
 h2,
 h3 {
