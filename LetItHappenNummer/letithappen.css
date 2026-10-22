@@ -97,7 +97,7 @@
     padding-left: 0em;
   }
   50% {
-    padding-left: 1em;
+    padding-left: 3em;
   }
 }
 
@@ -601,16 +601,17 @@ p:nth-of-type(10):hover {
     color: red;
   }
 }
+/* woordje train */
 
 p:nth-of-type(10) strong {
   display: block;
   text-decoration: underline;
+  filter: blur(0.6px);
   transform: skew(-20deg);
   animation-name: --train-animatie;
   animation-duration: 2s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
-  animation-timing-function: cubic-bezier(0.5, -0.9, 0.1, 1.5);
 }
 p:nth-of-type(11) {
   grid-column-start: 4;
