@@ -4,11 +4,22 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 23 okt - retrospect
+
+MOET IK NOG MAKEN!
+
 ### 22 okt - animaties toevoegen aan main page en songtext afmaken.
 
 <img src="./Afbeeldingen/songtext1.png">
 <img src="./Afbeeldingen/songtext2.png">
 Allerlaatste aanpassingen van mijn songtekst, deze was grotendeels al af.
+
+<img src="./Afbeeldingen/animatiesmain1.png">
+<img src="./Afbeeldingen/animatiesmain2.png">
+<img src="./Afbeeldingen/animatiesmain3.png">
+<img src="./Afbeeldingen/animatiesmain4.png">
+<img src="./Afbeeldingen/animatiesmain5.png">
+Animaties toegevoegd aan mijn main page. Deze stukjes code heb ik van een youtube video: <a href="https://www.youtube.com/watch?v=1AfhL641768">
 
 ### 21 okt - peerfeedback formulier
 
