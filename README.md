@@ -4,13 +4,77 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 8 okt - checkout vragen
+### 22 okt - animaties toevoegen aan main page en songtext afmaken.
+
+<img src="./Afbeeldingen/songtext1.png">
+<img src="./Afbeeldingen/songtext2.png">
+Allerlaatste aanpassingen van mijn songtekst, deze was grotendeels al af.
+
+### 21 okt - peerfeedback formulier
+
+<img src="./Afbeeldingen/peerfeedback1.png">
+<img src="./Afbeeldingen/peerfeedback2.png">
+Dit was mijn peerfeedback formulier. Ik ga vooral focusen op het toevoegen van bronnen in de readme, en animaties toevoegen aan mijn tuintjes homepagina. Ook ga ik proberen mijn alt teksten te laten werken met de screenreader.
+
+### 20 okt - songtext verder gemaakt
+
+<img src="./Afbeeldingen/songtext-code6.png">
+<img src="./Afbeeldingen/songtext-code7.png">
+<img src="./Afbeeldingen/songtext-code8.png">
+<img src="./Afbeeldingen/songtext-code9.png">
+<img src="./Afbeeldingen/songtext-code10.png">
+<img src="./Afbeeldingen/songtext-code11.png">
+<img src="./Afbeeldingen/songtext-code12.png">
+<img src="./Afbeeldingen/songtext-code13.png">
+<img src="./Afbeeldingen/songtext-code14.png">
+Veel gewerkt aan mijn songtekst code, ook animaties toegevoegd en stagered transitions.
+
+### 19 okt - webby formulier
+
+<img src="./Afbeeldingen/webby-formulier.png">
+Webby formulier over mijn eiegen website ingevuld.
+
+### 9 okt - checkout vragen
 
 1. Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+   "wght" tussen de 100 en 200 en "SRFS" tussen de 20 en 60.
 
 2. Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+   Je kan de tekst dikgedrukter maken, zodat het wat helderder, of harder overkomt. Je kan met SRFS de tekst wat speelser eruit laten zien.
 
 3. Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
+   Bijvoorbeeld stagered transities op stukjes waarop de zanger uithaalt, en dat dan vertalen in meer letters die steeds groter worden.
+
+### 8 okt - deepdive en songtext gemaakt
+
+<img src="./Afbeeldingen/variablefont1.png">
+<img src="./Afbeeldingen/variablefont2.png">
+<img src="./Afbeeldingen/variablefont3.png">
+<img src="./Afbeeldingen/variablefont4.png">
+Oefening 1 van de deepdive, waarin je per font moest uitzoekemn wat de mogelijkheden zijn van het variable font.
+<img src="./Afbeeldingen/variablefont5.png">
+<img src="./Afbeeldingen/variablefont6.png">
+<img src="./Afbeeldingen/variablefont7.png">
+<img src="./Afbeeldingen/variablefont8.png">
+<img src="./Afbeeldingen/variablefont9.png">
+<img src="./Afbeeldingen/variablefont10.png">
+<img src="./Afbeeldingen/variablefont11.png">
+<img src="./Afbeeldingen/variablefont12.png">
+Dit was oefening 2 waarin je de text ging animeren als je er met je muis overheen ging, deze oefening ging echt goed en was leuk.
+<img src="./Afbeeldingen/variablefont13.png">
+<img src="./Afbeeldingen/variablefont14.png">
+<img src="./Afbeeldingen/variablefont15.png">
+<img src="./Afbeeldingen/variablefont16.png">
+<img src="./Afbeeldingen/variablefont17.png">
+<img src="./Afbeeldingen/variablefont18.png">
+Dit was oefening 3 met de stagered transitions (per letter animatie).
+
+<img src="./Afbeeldingen/songtext-code1.png">
+<img src="./Afbeeldingen/songtext-code2.png">
+<img src="./Afbeeldingen/songtext-code3.png">
+<img src="./Afbeeldingen/songtext-code4.png">
+<img src="./Afbeeldingen/songtext-code5.png">
+Dit is een van de eerste iteraties van mijn songtext in code, dit is de eerste versie die op github stond. Ik was al wel eerder begonnen maar toen had ik de songtext file nog niet toegevoegd aan repository. Ik heb ook geen screenshots gemaakt van mijn allereerste iteratie (sad_emoji).
 
 ### 7 okt - checkout vragen
 
@@ -25,6 +89,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 3. Hoeveel gekkigheid moet er in je werk zitten?
    Gekkigheid moet erin kunnen zitten, mits dit van toepassing is. Het ligt dus aan de ontwerper wat zijn bedoeling is met het ontwerp.
+
+### 6 okt - deepdive interessante layouts
+
+<img src="./Afbeeldingen/interessante-layouts1.png">
+<img src="./Afbeeldingen/interessante-layouts2.png">
+<img src="./Afbeeldingen/interessante-layouts3.png">
+<img src="./Afbeeldingen/interessante-layouts4.png">
+Vandaag heb ik de deepdive interessante layouts gedaan. Nu weet ik hoe clamp en viewport units werken!
 
 ### 5 okt - checkout vragen
 
@@ -49,6 +121,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
    Bij mijn ontwerp zou plaatsen het beste passen, aangezien veel van mijn schetsen veel verschillende individuele letterplaatsing bevatten.
+
+### 5 okt - songtext schetsen
+
+<img src="./Afbeeldingen/songtext-schets1.png">
+<img src="./Afbeeldingen/songtext-schets2.png">
+<img src="./Afbeeldingen/songtext-schets3.png">
+<img src="./Afbeeldingen/songtext-schets4.png">
+Dit zijn de schetsen die ik heb gemaakt van het nummer "Let it happen - Tame Impala". Ik heb twee stukjes uit het nummer gekozen zodat ik wat meer keuze had.
+
+### 2 okt - retrospect
+
+MOET IK NOG INLEVEREN!
 
 ### 31 sept - toegankelijkheid test verder uitwerken
 
