@@ -19,7 +19,7 @@ Allerlaatste aanpassingen van mijn songtekst, deze was grotendeels al af.
 <img src="./Afbeeldingen/animatiesmain3.png">
 <img src="./Afbeeldingen/animatiesmain4.png">
 <img src="./Afbeeldingen/animatiesmain5.png">
-Animaties toegevoegd aan mijn main page. Deze stukjes code heb ik van een youtube video: <a href="https://www.youtube.com/watch?v=1AfhL641768">
+Animaties toegevoegd aan mijn main page. Deze stukjes code heb ik van een youtube video: <a href="https://www.youtube.com/watch?v=1AfhL641768">youtube video</a>
 
 ### 21 okt - peerfeedback formulier
 
