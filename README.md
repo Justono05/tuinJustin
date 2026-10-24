@@ -19,7 +19,7 @@ Allerlaatste aanpassingen van mijn songtekst, deze was grotendeels al af.
 <img src="./Afbeeldingen/animatiesmain3.png">
 <img src="./Afbeeldingen/animatiesmain4.png">
 <img src="./Afbeeldingen/animatiesmain5.png">
-Animaties toegevoegd aan mijn main page. Deze stukjes code heb ik van een youtube video: <a href="https://www.youtube.com/watch?v=1AfhL641768">youtube video</a>
+Animaties toegevoegd aan mijn main page. Deze stukjes code heb ik van een youtube video: <a href="https://www.youtube.com/watch?v=1AfhL641768">youtube video over scrollable animaties</a>
 
 ### 21 okt - peerfeedback formulier
 
@@ -325,9 +325,108 @@ Vandaag heb ik de artikelen als huiswerk gelezen en de deepdive button, states e
    Vandaag hebben we een cookie consent form moeten invullen adhv 3 webpaginas. Hier de resultaten:
    <img src="./Afbeeldingen/Cookieconsentform.png">
 
-### 18 sept - checkout
+### 18 sept - checkout retrospect
 
-MOET IK NOG MAKEN!
+ORIËNTEREN EN BEGRIJPEN
+
+-Waarom geven de docenten deze opdracht?
+De docenten geven deze opdracht zodat we leren over hoe html en css werkt. En de beste manier om over iets te leren is om het zelf te doen. Je leert de basis in tekst en leert door zelf de aangereikte code te gebruiken en er een eigen twist aan te geven voor je eigen digital garden.
+
+-Welke technieken gebruik ik?
+Natuurlijk html en css. Maar ook schetsen om een beeld te krijgen van wat wil wil voor het coderen.
+
+-Wat zijn de randvoorwaarden?
+Dat het voldoet aan de privacy wetgeving. Dat het webby is (kan het op een groot en klein scherm weergeven worden, heeft het goede contrast en leesbaarheid etc). En dat je in je tuintje gaat experimenteren en eigen maakt.
+
+-Waar gebruik je HTML/CSS voor?
+Hmtl en css gebruik je voor het maken van websites. Maar ook voor het bouwen van webshops, interfaces voor apps en ook voor simpele browser games.
+
+-Wat kan er allemaal met CSS?
+Met css kan je grids maken, tekst opmaken, achtergronden en kleur instellen, tekst grootte en vorm aanpassen, animeren, hover en active states maken en nog veel meer.
+
+VERBEELDEN EN CONCEPTUALISEREN
+
+-Lukt het om verschillende ideeën te bedenken?
+Ja het lukt om verschillende ideeën te bedenken, alleen vind ik het denken in verschillende oplosrichtingen nog wat moeilijk. Bij veel ideeën of woorden denk ik gelijk aan de "obvious" oplossingen terwijl ik vaak wat breder moet denken dan dat. Zoals bij het woordt zweven denk ik gelijk aan een vliegtuig of stof dat naar beneden valt. Maar van het woord zweven kun je ook denken aan rust of vrijheid. Om zo breed te denken vind ik vaak moeilijk.
+
+-Lukt het om je ideeën te schetsen?
+Schetsen van ideeën gaat wel erg goed, alleen zijn ze soms wat slordig. Maar het op papier krijgen waar ik aan denk is prima te doen.
+
+-Wat doet deze CSS-property?
+Een css-property kan je een nieuw of verschillend idee geven dan wat je in eerste instantie in gedachte had. Zo kan een gradient of animatie nieuwe mogelijkheden bieden over hoe je iets wilt gaan vormgeven.
+
+-Welke content, en welke HTML heb ik nodig?
+Ik zelf ga vooral tekst en afbeeldingen als content gebruiken voor mijn tuintje. Dus heb ik veel articles en img html nodig. Ook ga ik naar onderwerpen verwijzen dmv links.
+
+-Hoe kan ik dit soort content vormgeven?
+Ik ga kiezen voor een nette grid layout met een vaste structuur. Tekst links, afbeeldingen rechts. Achtergrond wil ik een gradient maken, verschillend op light en dark mode. Ik wil een passende computer style font gebruiken. Ook wil ik duidelijke active en focus states maken.
+
+-Wat als ik hier nu eens 1000 invul?
+1000 zou ik kunnen invullen als tekst grootte in pixels, of iets met een afbeelding setting.
+
+PROTOTYPE EN UITWERKEN
+
+-Begrijpen bezoekers de site?
+Tot nu toe is de website goed te begrijpen, het is nu alleen nog maar tekst en afbeelding. Dit zal ik verder moeten uittesten naarmate ik er verder aan werk. Dit kan ik bijvoorbeeld door usertest te doen.
+
+-Wat vindt de opdrachtgever er van?
+In dit geval is de opdrachtgever de feedback momenten aan het einde van elke sprint. Tot nu toe vinden de docenten het er nog goed uitzien, meer hier en daar wat verbeterpunten waar ik komende sprints aan kan gaan werken.
+
+-Werkt dit wel?
+Wat ik graag wil doen is de artikelen (en de stappen) laten lijken alsof je door een bak met folders graaft. Of dit kan moet ik nog uitzoeken. Dit zal ook wel wat moeilijker gaan aangezien we geen classes mogen gebruiken etc.
+
+-Oooooh, kan dit óók?!
+Ik heb al wat ideeëtjes gekregen voor animaties waar we als het goed is nog over te leren krijgen. Zoals een geanimeerde borden, of tekst dat inspringt naarmate je naar beneden scrolt.
+
+EVALUEREN
+
+-Reflecteren met the riddle:
+(1) wat wilde ik weten?
+Ik wilde voornamelijk weten hoe grids werken, en hoe je verschillende settings van tekst en border etc aan te passen (zoals ronde hoeken van de border, tekst schaduwen en filters.)
+
+(2) wat deed ik om er achter te komen?
+deepdives doen oop dlo, youtube filmpjes bekijken.
+
+(3) wat was het resultaat?
+Veel settings waren makkelijk te vinden, nu zullen er altijd wel nog meer filters en effecten zijn die je kunt aanpassen. Maar tot nu toe ben ik tevreden met hoe het eruit ziet.
+
+(4) wat weet ik nu (niet)?
+Alle mogelijke settings en filters ever die er met css kunnen.
+
+-Wat wil(de) ik weten/bereiken?
+Het maken van een betere site als die van jaar 1 blok 1. Het eindelijk begrijpen over hoe je een grid moet maken zonder alle smet position om zijn plek te zetten.
+
+-Wat heb ik gedaan?
+Alle deepdives gedaan, vragen gesteld, youtube videos gekeken, websites die css en html code uitleggen etc.
+
+-Wat was het resultaat?
+Ik snap nu hoe grids werken, en het is een stuk makkelijker dan gedacht. Css en html is voor mijn gevoel een stuk makkelijker geworden dan ik eerst dacht. Wat eerste leek op een diepe put is nu een leuk leerzaam proces geworden. Ik begin zelf het coderen steeds leuker te vinden.
+
+-Wat weet je nu (niet)?
+hoe align items en justify content precies werkt. Hoe het maken van een grid-area precies werkt (wel weet ik over tmeplate rows en columns, dit werkt voor nu goed genoeg). Verschil tussen alle position properties blijft moeilijk te onthouden.
+
+-Wat vond je (niet) leuk?
+Wat ik al eerder zei is dat ik coderen echt leuk begin te vinden, waar voorheen ik er best tegenop zag om het te doen. Ik denk ook dat ik door ga met het profileringsvak tech. Wat ik niet leuk vind is dat ik graag alle mogelijke opties van html en css wil weten zodat ik alles maar kan maken wat ik wil, alleen dit is nog veelste veel.
+
+-Voldoet het nog aan de eisen?
+Tot nu toe voldoet mijn site nog aan de eisen.
+
+REFLECTIE VOOR KOMENDE SPRINSTS
+
+-HTML validatie
+Dit zal ik na elke sprint doen zodat ik voordat de nieuwe spint begint aanpassingen kan maken zodat de website goed gecodeerd is voordat ik verder ga met de volgende sprint.
+
+-Toegankelijkheids-check
+Alt teksten blijven toevoegen, af en toe screenreader aanzetten om te kijken of alles nog toegankgelijk is.
+
+-Is mijn website nog wel adaptief?
+Af en toe checken wat er gebeurd als ik de website groter of kleiner maak. Contrast checker vaak gebruiken. Knopgrootte controlen op mobiel.
+
+-Voldoet mijn website nog wel aan de wet?
+AVG test doen en terug reflecteren of deze nogsteeds klopt.
+
+-Zie ik mezelf nog wel terug in wat ik doe?
+Dit zal wel goed komen, aangezien ik niet iemand ben die grote stukken code copy paste en het zo laat. Ik zal er altijd een eigen twist aan geven en ik zal ook geen code gebruiken puur "zodat ik het gebruikt heb". Oftewel er moet wel rede voor zijn om stukken code op te zoeken, ik moet het wel zelf erin willen hebben en niet omdat ik het van de docent "moet" gebruiken.
 
 ### 18 sept - Retrospect tekening
 
