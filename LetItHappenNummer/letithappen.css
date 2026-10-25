@@ -139,10 +139,12 @@ p:nth-of-type(1) strong:nth-of-type(1) {
 }
 
 p:nth-of-type(1) strong:nth-of-type(2) {
-  animation-name: --vanish-animatie;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
+  @media (prefers-reduced-motion: no-preference) {
+    animation-name: --vanish-animatie;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+  }
 }
 
 /* Tweede paragraaf */
@@ -187,9 +189,11 @@ p:nth-of-type(2) span:nth-of-type(8) {
 }
 
 p:nth-of-type(2) strong {
-  animation-name: --scare-animatie;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    animation-name: --scare-animatie;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+  }
 }
 
 p:nth-of-type(2) {
@@ -232,12 +236,14 @@ p:nth-of-type(3) span:nth-of-type(5) {
 
 /*woordje through*/
 p:nth-of-type(3) strong span:nth-of-type(1) {
-  position: relative;
-  margin-right: -28px;
-  z-index: 2;
-  animation-name: --stretch-left;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    position: relative;
+    margin-right: -28px;
+    z-index: 2;
+    animation-name: --stretch-left;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
 }
 
 p:nth-of-type(3) strong span:nth-of-type(2) {
@@ -248,12 +254,14 @@ p:nth-of-type(3) strong span:nth-of-type(2) {
 }
 
 p:nth-of-type(3) strong span:nth-of-type(3) {
-  position: relative;
-  margin-left: -8px;
-  z-index: 2;
-  animation-name: --stretch-right;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    position: relative;
+    margin-left: -8px;
+    z-index: 2;
+    animation-name: --stretch-right;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
 }
 /* vierde paragraaf */
 p:nth-of-type(4) {
@@ -263,47 +271,59 @@ p:nth-of-type(4) {
 }
 
 p:nth-of-type(4) span:nth-of-type(1) {
-  position: relative;
-  animation-name: --bounce-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    position: relative;
+    animation-name: --bounce-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
 }
 
 p:nth-of-type(4) span:nth-of-type(2) {
-  position: relative;
-  animation-name: --bounce-animatie;
-  animation-duration: 2s;
-  animation-delay: 0.5s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    position: relative;
+    animation-name: --bounce-animatie;
+    animation-duration: 2s;
+    animation-delay: 0.5s;
+    animation-iteration-count: infinite;
+  }
 }
 
 p:nth-of-type(4) span:nth-of-type(3) {
-  position: relative;
-  animation-name: --bounce-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    position: relative;
+    animation-name: --bounce-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
 }
 
 p:nth-of-type(4) span:nth-of-type(4) {
-  position: relative;
-  animation-name: --bounce-animatie;
-  animation-duration: 2s;
-  animation-delay: 0.5s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    position: relative;
+    animation-name: --bounce-animatie;
+    animation-duration: 2s;
+    animation-delay: 0.5s;
+    animation-iteration-count: infinite;
+  }
 }
 
 p:nth-of-type(4) span:nth-of-type(5) {
-  position: relative;
-  animation-name: --bounce-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    position: relative;
+    animation-name: --bounce-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
 }
 p:nth-of-type(4) span:nth-of-type(6) {
-  position: relative;
-  animation-name: --bounce-animatie;
-  animation-duration: 2s;
-  animation-delay: 0.5s;
-  animation-iteration-count: infinite;
+  @media (prefers-reduced-motion: no-preference) {
+    position: relative;
+    animation-name: --bounce-animatie;
+    animation-duration: 2s;
+    animation-delay: 0.5s;
+    animation-iteration-count: infinite;
+  }
 }
 
 /* animatie 5de paragraaf */
@@ -367,37 +387,47 @@ p:nth-of-type(6) {
 }
 
 p:nth-of-type(6) span:nth-of-type(1) {
-  animation-name: --i-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-delay: 0.2s;
+  @media (prefers-reduced-motion: no-preference) {
+    animation-name: --i-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: 0.2s;
+  }
 }
 p:nth-of-type(6) span:nth-of-type(2) {
-  animation-name: --i-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-delay: 0.5s;
+  @media (prefers-reduced-motion: no-preference) {
+    animation-name: --i-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: 0.5s;
+  }
 }
 
 p:nth-of-type(6) span:nth-of-type(3) {
-  animation-name: --i-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-delay: 0.3s;
+  @media (prefers-reduced-motion: no-preference) {
+    animation-name: --i-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: 0.3s;
+  }
 }
 
 p:nth-of-type(6) span:nth-of-type(4) {
-  animation-name: --i-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-delay: 0.1s;
+  @media (prefers-reduced-motion: no-preference) {
+    animation-name: --i-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: 0.1s;
+  }
 }
 
 p:nth-of-type(6) span:nth-of-type(5) {
-  animation-name: --i-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-delay: 0.4s;
+  @media (prefers-reduced-motion: no-preference) {
+    animation-name: --i-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: 0.4s;
+  }
 }
 
 p:nth-of-type(7) {
@@ -515,51 +545,63 @@ p:nth-of-type(9) span:nth-of-type(8) {
 
 /*woordje ticket*/
 p:nth-of-type(9) strong span:nth-of-type(1) {
-  position: relative;
-  animation-name: --bounce-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  font-variation-settings: "wght" 120;
+  @media (prefers-reduced-motion: no-preference) {
+    position: relative;
+    animation-name: --bounce-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    font-variation-settings: "wght" 120;
+  }
 }
 p:nth-of-type(9) strong span:nth-of-type(2) {
-  position: relative;
-  animation-name: --bounce-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-delay: 0.1s;
-  font-variation-settings: "wght" 120;
+  @media (prefers-reduced-motion: no-preference) {
+    position: relative;
+    animation-name: --bounce-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: 0.1s;
+    font-variation-settings: "wght" 120;
+  }
 }
 p:nth-of-type(9) strong span:nth-of-type(3) {
-  position: relative;
-  animation-name: --bounce-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-delay: 0.2s;
-  font-variation-settings: "wght" 120;
+  @media (prefers-reduced-motion: no-preference) {
+    position: relative;
+    animation-name: --bounce-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: 0.2s;
+    font-variation-settings: "wght" 120;
+  }
 }
 p:nth-of-type(9) strong span:nth-of-type(4) {
-  position: relative;
-  animation-name: --bounce-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-delay: 0.3s;
-  font-variation-settings: "wght" 120;
+  @media (prefers-reduced-motion: no-preference) {
+    position: relative;
+    animation-name: --bounce-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: 0.3s;
+    font-variation-settings: "wght" 120;
+  }
 }
 p:nth-of-type(9) strong span:nth-of-type(5) {
-  position: relative;
-  animation-name: --bounce-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-delay: 0.4s;
-  font-variation-settings: "wght" 120;
+  @media (prefers-reduced-motion: no-preference) {
+    position: relative;
+    animation-name: --bounce-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: 0.4s;
+    font-variation-settings: "wght" 120;
+  }
 }
 p:nth-of-type(9) strong span:nth-of-type(6) {
-  position: relative;
-  animation-name: --bounce-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-delay: 0.5s;
-  font-variation-settings: "wght" 120;
+  @media (prefers-reduced-motion: no-preference) {
+    position: relative;
+    animation-name: --bounce-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: 0.5s;
+    font-variation-settings: "wght" 120;
+  }
 }
 
 p:nth-of-type(10) {
@@ -604,14 +646,16 @@ p:nth-of-type(10):hover {
 /* woordje train */
 
 p:nth-of-type(10) strong {
-  display: block;
-  text-decoration: underline;
-  filter: blur(0.6px);
-  transform: skew(-20deg);
-  animation-name: --train-animatie;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
+  @media (prefers-reduced-motion: no-preference) {
+    display: block;
+    text-decoration: underline;
+    filter: blur(0.6px);
+    transform: skew(-20deg);
+    animation-name: --train-animatie;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+  }
 }
 p:nth-of-type(11) {
   grid-column-start: 4;
