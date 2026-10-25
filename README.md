@@ -6,7 +6,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 23 okt - retrospect
 
-MOET IK NOG MAKEN!
+<img src="./Afbeeldingen/retrospect3_1.png">
+<img src="./Afbeeldingen/retrospect3_2.png">
+<img src="./Afbeeldingen/retrospect3_3.png">
 
 ### 22 okt - animaties toevoegen aan main page en songtext afmaken.
 
@@ -143,7 +145,9 @@ Dit zijn de schetsen die ik heb gemaakt van het nummer "Let it happen - Tame Imp
 
 ### 2 okt - retrospect
 
-MOET IK NOG INLEVEREN!
+<img src="./Afbeeldingen/retrospect2_1.png">
+<img src="./Afbeeldingen/retrospect2_2.png">
+<img src="./Afbeeldingen/retrospect2_3.png">
 
 ### 31 sept - toegankelijkheid test verder uitwerken
 
