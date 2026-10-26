@@ -6,6 +6,15 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 25 okt - readme bijgewerkt en code tuintje verder aangepast
 
+alle retrospecten toegevoegd. Ook heb ik op de meeste animaties een @media reduced motion toegevoegd:
+<img src="./Afbeeldingen/reducedmotion.png">
+Ook heb ik een border animation toegevoegd:
+<img src="./Afbeeldingen/border-animatie.png">
+Hier de code ervan:
+<img src="./Afbeeldingen/border-animatiecode1.png">
+<img src="./Afbeeldingen/border-animatiecode2.png">
+Ik kreeg alleen niet aan de praat hoe ik per light-dark mode een andere kleur kon instellen, want met custom properties deed hij het niet.
+
 ### 23 okt - retrospect
 
 <img src="./Afbeeldingen/retrospect3_1.png">
