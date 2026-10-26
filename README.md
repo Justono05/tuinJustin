@@ -14,6 +14,7 @@ Hier de code ervan:
 <img src="./Afbeeldingen/border-animatiecode1.png">
 <img src="./Afbeeldingen/border-animatiecode2.png">
 Ik kreeg alleen niet aan de praat hoe ik per light-dark mode een andere kleur kon instellen, want met custom properties deed hij het niet.
+video van de gebruikte code: <a href="https://www.youtube.com/watch?v=ezP4kbOvs_E">youtube video over border animaties</a>
 
 ### 23 okt - retrospect
 
