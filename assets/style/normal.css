@@ -61,6 +61,21 @@
   }
 }
 
+@keyframes --border-spin {
+  from {
+    --angle: 0deg;
+  }
+  to {
+    --angle: 360deg;
+  }
+}
+
+@property --angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
 /*HTML EN SELECTORS*/
 
 html {
@@ -98,6 +113,7 @@ html:has([value="light"]:checked) {
   --colorbuttonfocus: rgb(255, 247, 213);
   --colorbuttonactive: rgb(193, 186, 159);
   --colorprogress: linear-gradient(90deg, #5408bf, #080ebf);
+  --angle: 0deg;
 }
 
 html:has([value="dark"]:checked) {
@@ -112,6 +128,7 @@ html:has([value="dark"]:checked) {
   --colorbuttonfocus: rgb(193, 70, 255);
   --colorbuttonactive: rgb(136, 49, 180);
   --colorprogress: linear-gradient(90deg, #f4b60b, #f4dd0b);
+  --angle: 0deg;
 }
 
 /*KLEUREN LINKS*/
@@ -222,13 +239,48 @@ main article h3 {
   }
 }
 
+section {
+  margin-top: var(--whitespace-s);
+}
+
 article {
-  border: var(--bordercolor);
   border-radius: 10px;
   padding: 15px;
-  margin-top: var(--whitespace-xs);
+  background-image: var(--background);
+  margin-top: var(--whitespace-s);
+  position: relative;
   display: grid;
   grid-template-columns: 1fr 1fr;
+}
+
+article::after,
+article::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: conic-gradient(
+    from var(--angle),
+    transparent 30%,
+    #3513ec,
+    #e314eb,
+    #139cec
+  );
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  z-index: -1;
+  padding: 4px;
+  border-radius: 10px;
+  animation-name: --border-spin;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+article::before {
+  filter: blur(1.5rem);
+  opacity: 0.7;
 }
 
 main article p {

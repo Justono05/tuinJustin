@@ -4,6 +4,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 25 okt - readme bijgewerkt en code tuintje verder aangepast
+
 ### 23 okt - retrospect
 
 <img src="./Afbeeldingen/retrospect3_1.png">
