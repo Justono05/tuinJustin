@@ -4,6 +4,10 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 26 okt - expo feedback
+
+<img src="./Afbeeldingen/expofeedback.png">
+
 ### 25 okt - readme bijgewerkt en code tuintje verder aangepast
 
 alle retrospecten toegevoegd. Ook heb ik op de meeste animaties een @media reduced motion toegevoegd:
