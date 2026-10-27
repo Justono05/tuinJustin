@@ -217,22 +217,22 @@ Ook zijn er duidelijke focus states, zodat je met tab kan zien op welke link je 
 Skip to content link niet nodig aangezien alle content al op de homepagina staat. Er zijn ook geen meerdere paginas
 
 2. screenreader:
-   Als je de lijst opent staat het meeste duidelijk aangegeven over wat het inhoud of doet:
+   Als je de lijst opent staat het meeste duidelijk aangegeven over wat het inhoud of doet, Nog niet bij elke knop staat goed uitgelegd wat het doet, zoals bij de light-dark knoppen:
    <img src="./Afbeeldingen/Formulierregelaars.png">
-   Nog niet bij elke knop staat goed uitgelegd wat het doet, zoals bij de light-dark knoppen.
+   Koppen staan goed met de juiste header getal, ook worden er geen header nummers geskipt:
    <img src="./Afbeeldingen/koppen.png">
-   Koppen staan goed met de juiste header getal, ook worden er geen header nummers geskipt.
+   Links staan er ook goed in, alleen omdat de links in verhalende stijl in de tekst staat is het soms onduidelijk wat de link precies doet:
    <img src="./Afbeeldingen/linkws.png">
-   Links staan er ook goed in, alleen omdat de links in verhalende stijl in de tekst staat is het soms onduidelijk wat de link precies doet.
+   Hier staan de stappen goed in chronologische volgorde uitgelegd, zoals ook de bedoeling is:
    <img src="./Afbeeldingen/orientatiepunt.png">
-   Hier staan de stappen goed in chronologische volgorde uitgelegd, zoals ook de bedoeling is.
 
    Alleen als de cookie dialog is uitgeklapt staat in de screenreader niet bij welke knop voor welke cookie is:
    <img src="./Afbeeldingen/formulierregelaars2.png">
 
    Als je door alle elementen van de pagina scrolt door ctrl + opt + < of >, dan wordt alles netjes op volgorde voorgelezen. Dus eerst de heading, dan wat de afbeelding is, dan de tekst, dan link, dan weer tekst en daarna vermeld de screanreader wanneer het kopje is afgelopen. Is zal alleen wel wat alt-teksten moeten aanpassen zodat er beter vermeld wordt wat de afbeeldingen inhoud.
+   before:
    <img src="./Afbeeldingen/fotonaambefore.png">
-   aangepast naar :
+   aangepast naar:
    <img src="./Afbeeldingen/fotonaamafter.png"> 3. WCAG-checklist:
    <img src="./Afbeeldingen/wcagchecklist1.png">
    <img src="./Afbeeldingen/wcagchecklist2.png">
@@ -244,9 +244,9 @@ Skip to content link niet nodig aangezien alle content al op de homepagina staat
    <img src="./Afbeeldingen/wcagchecklist8.png">
    Aan bijna alles voldoet mijn webpagina aan in de wcag-checklist. Ook is de contrast op mijn webpagina groot genoeg voor kleurenblinden:
    <img src="./Afbeeldingen/Kleurenblind1.png">
-   <img src="./Afbeeldingen/Kleurenblind2.png">
-   <img src="./Afbeeldingen/Kleurenblind3.png">
-   <img src="./Afbeeldingen/Kleurenblind4.png">
+   <img src="./Afbeeldingen/kleurenblind2.png">
+   <img src="./Afbeeldingen/kleurenblind3.png">
+   <img src="./Afbeeldingen/kleurenblind4.png">
 
 ### 28 sept - checkout vragen
 
