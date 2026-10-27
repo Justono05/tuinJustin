@@ -6,14 +6,24 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## bronnen
 
+Code:
+<a href="https://www.youtube.com/watch?v=ezP4kbOvs_E">youtube video over border animaties</a>
+
+<a href="https://www.youtube.com/watch?v=1AfhL641768">youtube video over scrollable animaties</a>
+
+de rest van de code heb ik van de deepdives en lessen!
+
+afbeeldingen:
+
 ## sprint 3
 
 ### 26 okt - expo feedback
 
+Dit is het formulier dat we met een groepje hebben ingevuld als beoordeling op ons eindproduct.
 <img src="./Afbeeldingen/eindproduct1.png">
 <img src="./Afbeeldingen/eindproduct2.png">
-Dit is het formulier dat we met een groepje hebben ingevuld als beoordeling op ons eindproduct.
 
+expo feedback leerlingen:
 <img src="./Afbeeldingen/expofeedback.png">
 Over het algemeen heb ik zeer positieve feedback gehad, op 1 blauw stickertje na. Hier staat dat de cookie popup niet duidelijk vindbaar is en dat de focus state beter kan. Dat van de cookie popup kan ik begrijpen, daar ga ik denk een animatie op doen zodat de popup wat aandacht trekt. Ik ga properen hier een "one-time use" animatie van te maken, dat zodra er op de popup is geklikt, de animatie stopt. Dat de focus state niet duidelijk is komt denk omdat ik op mijn laptop alle links al heb bezocht, dan blijft de kleur hetzelfde. Als dit niet het geval is, bij dus alle nieuwe gebruikers, veranderd de kleur in de focus state. Ik ga kijken of ik de focus state kan laten afspelen ookal is de link al een keer bezocht.
 
@@ -37,9 +47,9 @@ video van de gebruikte code: <a href="https://www.youtube.com/watch?v=ezP4kbOvs_
 
 ### 22 okt - animaties toevoegen aan main page en songtext afmaken.
 
+Allerlaatste aanpassingen van mijn songtekst, deze was grotendeels al af.
 <img src="./Afbeeldingen/songtext1.png">
 <img src="./Afbeeldingen/songtext2.png">
-Allerlaatste aanpassingen van mijn songtekst, deze was grotendeels al af.
 
 <img src="./Afbeeldingen/animatiesmain1.png">
 <img src="./Afbeeldingen/animatiesmain2.png">
