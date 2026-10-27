@@ -4,9 +4,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+## bronnen
+
+## sprint 3
+
 ### 26 okt - expo feedback
 
+<img src="./Afbeeldingen/eindproduct1.png">
+<img src="./Afbeeldingen/eindproduct2.png">
+Dit is het formulier dat we met een groepje hebben ingevuld als beoordeling op ons eindproduct.
+
 <img src="./Afbeeldingen/expofeedback.png">
+Over het algemeen heb ik zeer positieve feedback gehad, op 1 blauw stickertje na. Hier staat dat de cookie popup niet duidelijk vindbaar is en dat de focus state beter kan. Dat van de cookie popup kan ik begrijpen, daar ga ik denk een animatie op doen zodat de popup wat aandacht trekt. Ik ga properen hier een "one-time use" animatie van te maken, dat zodra er op de popup is geklikt, de animatie stopt. Dat de focus state niet duidelijk is komt denk omdat ik op mijn laptop alle links al heb bezocht, dan blijft de kleur hetzelfde. Als dit niet het geval is, bij dus alle nieuwe gebruikers, veranderd de kleur in de focus state. Ik ga kijken of ik de focus state kan laten afspelen ookal is de link al een keer bezocht.
 
 ### 25 okt - readme bijgewerkt en code tuintje verder aangepast
 
@@ -158,6 +167,8 @@ Vandaag heb ik de deepdive interessante layouts gedaan. Nu weet ik hoe clamp en 
 <img src="./Afbeeldingen/songtext-schets3.png">
 <img src="./Afbeeldingen/songtext-schets4.png">
 Dit zijn de schetsen die ik heb gemaakt van het nummer "Let it happen - Tame Impala". Ik heb twee stukjes uit het nummer gekozen zodat ik wat meer keuze had.
+
+## sprint 2
 
 ### 2 okt - retrospect
 
@@ -344,6 +355,8 @@ Vandaag heb ik de artikelen als huiswerk gelezen en de deepdive button, states e
 
    Vandaag hebben we een cookie consent form moeten invullen adhv 3 webpaginas. Hier de resultaten:
    <img src="./Afbeeldingen/Cookieconsentform.png">
+
+## sprint 1
 
 ### 18 sept - checkout retrospect
 
