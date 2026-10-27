@@ -280,11 +280,11 @@ Hier had ik perongeluk een target=\_blank toegevoegd aan een afbeelding:
 <img src="./Afbeeldingen/targetblank.png">
 Dit weggehaald.
 <img src="./Afbeeldingen/htmlvalidatie4.png">
-Ook had ik bij beide afbeeldingen spaties in de naam zitten, wat niet mag. Ik heb de spaties vervangen met -'s:
+Ook had ik bij beide afbeeldingen spaties in de naam zitten, wat niet mag. Ik heb de spaties vervangen met -'s.
+Dit was de before:
 <img src="./Afbeeldingen/afbeeldingspatiesbefore.png">
-Dit was de before.
+En dit is hoe het hoort:
 <img src="./Afbeeldingen/afbeeldingspatiesafter.png">
-En dit is hoe het hoort.
 
 <img src="./Afbeeldingen/wcagvalidatieafter.png">
 Dit is nu wat er nog overblijft, de docent zij zelf dat een /> als sluiting niet nodig is na een img element, maar wel fijn is. Dus dit laat ik zo. Het heeft voorderest geen effect op wat de html doet.
@@ -308,23 +308,23 @@ Ook heb ik een deel gedaan van de deepdive postions + dialogs, alleen ben ik ver
 
 ### 24 sept - deepdive buttons en dialogs
 
-Vandaag heb ik de deepdive buttons en dialogs gedaan:
+Vandaag heb ik de deepdive buttons en dialogs gedaan.
+Dit was oefening 1 van de buttons en dialogs deepdive:
 <img src="./Afbeeldingen/buttonsoefening11.png">
 <img src="./Afbeeldingen/buttonsoefening12.png">
 <img src="./Afbeeldingen/buttonsoefening13.png">
 <img src="./Afbeeldingen/buttonsoefening14.png">
-Dit was oefening 1 van de buttons en dialogs deepdive.
+Dit is oefening 2 van de buttons en dialogs deepdive, hiermee kon je een poppetje laten springen als je op de knop drukt. Op de afbeelding zie je het niet, maar het poppetje sprong echt!
 <img src="./Afbeeldingen/buttonsoefening21.png">
 <img src="./Afbeeldingen/buttonsoefening22.png">
 <img src="./Afbeeldingen/buttonsoefening23.png">
-Dit is oefening 2 van de buttons en dialogs deepdive, hiermee kon je een poppetje laten springen als je op de knop drukt. Op de afbeelding zie je het niet, maar het poppetje sprong echt!
+Dit was de laatste oefening van de deepdive buttons:
 <img src="./Afbeeldingen/buttonsoefening3.png">
-Dit was de laatste oefening van de deepdive buttons.
+Dit zijn enkele afbeeldingen van de oefening met de dialogs:
 <img src="./Afbeeldingen/dialogsoefening1.png">
 <img src="./Afbeeldingen/dialogsoefening2.png">
 <img src="./Afbeeldingen/dialogsoefening3.png">
 <img src="./Afbeeldingen/dialogsoefening4.png">
-Dit zijn enkele afbeeldingen van de oefening met de dialogs.
 
 Helaas vandaag geen tijd gehad om alvast aan mijn html te werken, dit zal ik de volgende keer doen.
 
@@ -579,6 +579,7 @@ en deepdive mooie kleuren, gradients en patronen gedaan:
 
    ### 9 sept
 
+Visual research en crazy 8 gedaan:
 <img src="/Afbeeldingen/Scherm­afbeelding 2026-09-10 om 22.51.00.png" >
 
 <img src="/Afbeeldingen/Scherm­afbeelding 2026-09-10 om 22.51.05.png" >
@@ -588,8 +589,6 @@ en deepdive mooie kleuren, gradients en patronen gedaan:
 <img src="/Afbeeldingen/Scherm­afbeelding 2026-09-10 om 22.51.14.png">
 
 <img src="/Afbeeldingen/Scherm­afbeelding 2026-09-10 om 22.51.19.png">
-
-Visual research en crazy 8 gedaan.
 
 ### 8 sept
 
