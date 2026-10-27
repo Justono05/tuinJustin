@@ -51,12 +51,12 @@ Allerlaatste aanpassingen van mijn songtekst, deze was grotendeels al af.
 <img src="./Afbeeldingen/songtext1.png">
 <img src="./Afbeeldingen/songtext2.png">
 
+Animaties toegevoegd aan mijn main page. Deze stukjes code heb ik van een youtube video: <a href="https://www.youtube.com/watch?v=1AfhL641768">youtube video over scrollable animaties</a>
 <img src="./Afbeeldingen/animatiesmain1.png">
 <img src="./Afbeeldingen/animatiesmain2.png">
 <img src="./Afbeeldingen/animatiesmain3.png">
 <img src="./Afbeeldingen/animatiesmain4.png">
 <img src="./Afbeeldingen/animatiesmain5.png">
-Animaties toegevoegd aan mijn main page. Deze stukjes code heb ik van een youtube video: <a href="https://www.youtube.com/watch?v=1AfhL641768">youtube video over scrollable animaties</a>
 
 ### 21 okt - peerfeedback formulier
 
@@ -66,6 +66,7 @@ Dit was mijn peerfeedback formulier. Ik ga vooral focusen op het toevoegen van b
 
 ### 20 okt - songtext verder gemaakt
 
+Veel gewerkt aan mijn songtekst code, ook animaties toegevoegd en stagered transitions.
 <img src="./Afbeeldingen/songtext-code6.png">
 <img src="./Afbeeldingen/songtext-code7.png">
 <img src="./Afbeeldingen/songtext-code8.png">
@@ -75,12 +76,11 @@ Dit was mijn peerfeedback formulier. Ik ga vooral focusen op het toevoegen van b
 <img src="./Afbeeldingen/songtext-code12.png">
 <img src="./Afbeeldingen/songtext-code13.png">
 <img src="./Afbeeldingen/songtext-code14.png">
-Veel gewerkt aan mijn songtekst code, ook animaties toegevoegd en stagered transitions.
 
 ### 19 okt - webby formulier
 
-<img src="./Afbeeldingen/webby-formulier.png">
 Webby formulier over mijn eiegen website ingevuld.
+<img src="./Afbeeldingen/webby-formulier.png">
 
 ### 9 okt - checkout vragen
 
@@ -95,11 +95,13 @@ Webby formulier over mijn eiegen website ingevuld.
 
 ### 8 okt - deepdive en songtext gemaakt
 
+Oefening 1 van de deepdive, waarin je per font moest uitzoeken wat de mogelijkheden zijn van het variable font.
 <img src="./Afbeeldingen/variablefont1.png">
 <img src="./Afbeeldingen/variablefont2.png">
 <img src="./Afbeeldingen/variablefont3.png">
 <img src="./Afbeeldingen/variablefont4.png">
-Oefening 1 van de deepdive, waarin je per font moest uitzoekemn wat de mogelijkheden zijn van het variable font.
+
+Dit was oefening 2 waarin je de text ging animeren als je er met je muis overheen ging, deze oefening ging echt goed en was leuk.
 <img src="./Afbeeldingen/variablefont5.png">
 <img src="./Afbeeldingen/variablefont6.png">
 <img src="./Afbeeldingen/variablefont7.png">
@@ -108,21 +110,21 @@ Oefening 1 van de deepdive, waarin je per font moest uitzoekemn wat de mogelijkh
 <img src="./Afbeeldingen/variablefont10.png">
 <img src="./Afbeeldingen/variablefont11.png">
 <img src="./Afbeeldingen/variablefont12.png">
-Dit was oefening 2 waarin je de text ging animeren als je er met je muis overheen ging, deze oefening ging echt goed en was leuk.
+
+Dit was oefening 3 met de stagered transitions (per letter animatie).
 <img src="./Afbeeldingen/variablefont13.png">
 <img src="./Afbeeldingen/variablefont14.png">
 <img src="./Afbeeldingen/variablefont15.png">
 <img src="./Afbeeldingen/variablefont16.png">
 <img src="./Afbeeldingen/variablefont17.png">
 <img src="./Afbeeldingen/variablefont18.png">
-Dit was oefening 3 met de stagered transitions (per letter animatie).
 
+Dit is een van de eerste iteraties van mijn songtext in code, dit is de eerste versie die op github stond. Ik was al wel eerder begonnen maar toen had ik de songtext file nog niet toegevoegd aan repository. Ik heb ook geen screenshots gemaakt van mijn allereerste iteratie (sad_emoji).
 <img src="./Afbeeldingen/songtext-code1.png">
 <img src="./Afbeeldingen/songtext-code2.png">
 <img src="./Afbeeldingen/songtext-code3.png">
 <img src="./Afbeeldingen/songtext-code4.png">
 <img src="./Afbeeldingen/songtext-code5.png">
-Dit is een van de eerste iteraties van mijn songtext in code, dit is de eerste versie die op github stond. Ik was al wel eerder begonnen maar toen had ik de songtext file nog niet toegevoegd aan repository. Ik heb ook geen screenshots gemaakt van mijn allereerste iteratie (sad_emoji).
 
 ### 7 okt - checkout vragen
 
@@ -140,11 +142,11 @@ Dit is een van de eerste iteraties van mijn songtext in code, dit is de eerste v
 
 ### 6 okt - deepdive interessante layouts
 
+Vandaag heb ik de deepdive interessante layouts gedaan. Nu weet ik hoe clamp en viewport units werken!
 <img src="./Afbeeldingen/interessante-layouts1.png">
 <img src="./Afbeeldingen/interessante-layouts2.png">
 <img src="./Afbeeldingen/interessante-layouts3.png">
 <img src="./Afbeeldingen/interessante-layouts4.png">
-Vandaag heb ik de deepdive interessante layouts gedaan. Nu weet ik hoe clamp en viewport units werken!
 
 ### 5 okt - checkout vragen
 
@@ -172,18 +174,18 @@ Vandaag heb ik de deepdive interessante layouts gedaan. Nu weet ik hoe clamp en 
 
 ### 5 okt - songtext schetsen
 
+Dit zijn de schetsen die ik heb gemaakt van het nummer "Let it happen - Tame Impala". Ik heb twee stukjes uit het nummer gekozen zodat ik wat meer keuze had.
 <img src="./Afbeeldingen/songtext-schets1.png">
 <img src="./Afbeeldingen/songtext-schets2.png">
 <img src="./Afbeeldingen/songtext-schets3.png">
 <img src="./Afbeeldingen/songtext-schets4.png">
-Dit zijn de schetsen die ik heb gemaakt van het nummer "Let it happen - Tame Impala". Ik heb twee stukjes uit het nummer gekozen zodat ik wat meer keuze had.
 
 ## sprint 2
 
 ### 2 okt - retrospect
 
 <img src="./Afbeeldingen/retrospect2_1.png">
-<img src="./Afbeeldingen/retrospect2_2.png">
+<img src="./Afbeeldingen/Retrospect2_2.png">
 <img src="./Afbeeldingen/retrospect2_3.png">
 
 ### 31 sept - toegankelijkheid test verder uitwerken
