@@ -70,6 +70,23 @@
   }
 }
 
+@keyframes --dialog {
+  0%,
+  100% {
+    scale: 1;
+    rotate: 0deg;
+  }
+  25% {
+    rotate: 10deg;
+  }
+  50% {
+    scale: 1.5;
+  }
+  75% {
+    rotate: -10deg;
+  }
+}
+
 @property --angle {
   syntax: "<angle>";
   initial-value: 0deg;
@@ -356,6 +373,10 @@ button:first-child {
   color: var(--textcolor);
   z-index: 9998;
   padding: 0.5em 3.8em 0.5em 3.8em;
+  animation-name: --dialog;
+  animation-duration: 1.5s;
+  animation-iteration-count: 3;
+  animation-timing-function: ease-in-out;
 }
 
 /*BUTTON STATES*/

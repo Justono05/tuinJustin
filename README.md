@@ -32,6 +32,10 @@ font:
 Ik heb de a:focus en a:hover onder de a:visited verplaatst, zodat deze states ook te zien zijn na het bezoeken van de link:
 <img src="./Afbeeldingen/oplossingfeedback1.png">
 
+Ook heb ik een kleine animatie gemaakt die drie keer afspeelt zodat de cookies knop de aandacht trekt:
+<img src="./Afbeeldingen/animatiedialog1.png">
+<img src="./Afbeeldingen/animatiedialog2.png">
+
 ### 26 okt - expo feedback
 
 Dit is het formulier dat we met een groepje hebben ingevuld als beoordeling op ons eindproduct.
