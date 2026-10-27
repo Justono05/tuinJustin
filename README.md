@@ -17,6 +17,11 @@ afbeeldingen:
 
 ## sprint 3
 
+### 27 okt - feedback toegepast
+
+Ik heb de a:focus en a:hover onder de a:visited verplaatst, zodat deze states ook te zien zijn na het bezoeken van de link:
+<img src="./Afbeeldingen/oplossingfeedback1.png">
+
 ### 26 okt - expo feedback
 
 Dit is het formulier dat we met een groepje hebben ingevuld als beoordeling op ons eindproduct.

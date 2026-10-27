@@ -137,6 +137,10 @@ a:link {
   color: var(--textcolor);
 }
 
+a:visited {
+  color: var(--colorvisited);
+}
+
 a:hover {
   color: var(--colorlink);
   font-size: 1.1em;
@@ -146,10 +150,6 @@ a:focus {
   color: var(--colorlink);
   outline: var(--coloroutline);
   font-size: 1.1em;
-}
-
-a:visited {
-  color: var(--colorvisited);
 }
 
 button {
