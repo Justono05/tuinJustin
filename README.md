@@ -14,6 +14,16 @@ Code:
 de rest van de code heb ik van de deepdives en lessen!
 
 afbeeldingen:
+<a href="https://blog.bestbuy.ca/computers-laptops-tablets/pc-components/amd-vs-intel-cpus">Afbeelding processors</a>
+
+<a href="https://rog.asus.com/rs-en/motherboards/rog-crosshair/rog-crosshair-x870e-hero/gallery/">Afbeelding moederbord</a>
+
+<a href="https://shop.sww.nl/product/g-skill-trident-z-rgb-geheugen-64-gb-4-x-16-gb-cl16-ddr4-3600-mhz/">Afbeelding g.skill werkgeheugen</a>
+
+<a href="https://www.youtube.com/watch?v=KeXw_oUCtlg">Afbeelding lucht- vs waterkoeling, de thumbnail is de afbeelding</a>
+
+font:
+<a href="https://www.fontmirror.com/led-dot-matrix">Led-dot matrix font</a>
 
 ## sprint 3
 
